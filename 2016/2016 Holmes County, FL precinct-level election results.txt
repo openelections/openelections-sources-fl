@@ -1,0 +1,1746 @@
+
+<HTML>
+<PRE>
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0001 Ponce de Leon
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1182
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .    899
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          76.06
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .    781   87.17
+           Hillary Rodham Clinton (DEM) .  .  .  .  .     93   10.38
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .     12    1.34
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      2     .22
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      3     .33
+           Roque "Rocky" De La Fuente (REF).  .  .  .      0
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      5     .56
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .      3
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .    721   82.12
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .    114   12.98
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     24    2.73
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      3     .34
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .      8     .91
+           Steven Machat (NPA) .  .  .  .  .  .  .  .      6     .68
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      1     .11
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      1     .11
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     21
+
+
+          Representative in Congress District 1
+          (VOTE FOR)  1
+           Matt Gaetz (REP) .  .  .  .  .  .  .  .  .    698   81.45
+           Steven Specht (DEM) .  .  .  .  .  .  .  .    159   18.55
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     42
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .    695   79.43
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    180   20.57
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     24
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    638   72.58
+           Jason French (NPA)  .  .  .  .  .  .  .  .    241   27.42
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     20
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    437   49.43
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    224   25.34
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    223   25.23
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     15
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .    706   80.32
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    173   19.68
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     20
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    524   60.30
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    345   39.70
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     30
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    407   46.25
+           Ron French (NPA) .  .  .  .  .  .  .  .  .     45    5.11
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .    120   13.64
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    268   30.45
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     40    4.55
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     19
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    648   74.31
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    224   25.69
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     27
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    396   48.83
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    415   51.17
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     88
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    359   44.60
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    446   55.40
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     93
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    408   49.94
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    409   50.06
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     81
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    411   50.93
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    396   49.07
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     92
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    393   49.00
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    409   51.00
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     97
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    371   46.49
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    427   53.51
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    100
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    383   48.06
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    414   51.94
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    102
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    390   49.12
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    404   50.88
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    104
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    391   49.31
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    402   50.69
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    105
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    405   46.29
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    470   53.71
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     24
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    519   60.21
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    343   39.79
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     37
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    565   64.50
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    311   35.50
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     23
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    721   82.78
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    150   17.22
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     28
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    686   79.31
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    179   20.69
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     33
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0002 Pine Log
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1165
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .    916
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          78.63
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .    784   86.53
+           Hillary Rodham Clinton (DEM) .  .  .  .  .     91   10.04
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .     15    1.66
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      5     .55
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      3     .33
+           Roque "Rocky" De La Fuente (REF).  .  .  .      0
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      8     .88
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     10
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .    746   83.45
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .    111   12.42
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     16    1.79
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      2     .22
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .     10    1.12
+           Steven Machat (NPA) .  .  .  .  .  .  .  .      5     .56
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      1     .11
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      3     .34
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     22
+
+
+          Representative in Congress District 1
+          (VOTE FOR)  1
+           Matt Gaetz (REP) .  .  .  .  .  .  .  .  .    721   84.03
+           Steven Specht (DEM) .  .  .  .  .  .  .  .    137   15.97
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     58
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .    696   77.85
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    198   22.15
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     22
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    600   66.74
+           Jason French (NPA)  .  .  .  .  .  .  .  .    299   33.26
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     17
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    369   40.95
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    264   29.30
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    268   29.74
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     15
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .    669   74.75
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    226   25.25
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     21
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    482   54.65
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    400   45.35
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     34
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    324   36.36
+           Ron French (NPA) .  .  .  .  .  .  .  .  .     67    7.52
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .    148   16.61
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    305   34.23
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     47    5.27
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     25
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    670   75.79
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    214   24.21
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     32
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    351   45.06
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    428   54.94
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    137
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    300   38.61
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    477   61.39
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    139
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    349   44.57
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    434   55.43
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    133
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    330   42.42
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    448   57.58
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    138
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    332   42.78
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    444   57.22
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    140
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    321   41.53
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    452   58.47
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    143
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    317   40.90
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    458   59.10
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    141
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    306   39.48
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    469   60.52
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    141
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    315   40.86
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    456   59.14
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    145
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    558   63.34
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    323   36.66
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     35
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    516   59.38
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    353   40.62
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     45
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    487   55.09
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    397   44.91
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     32
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    703   80.90
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    166   19.10
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     47
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    665   76.97
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    199   23.03
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     50
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0003 New Hope
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .    989
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .    736
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          74.42
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .    642   87.70
+           Hillary Rodham Clinton (DEM) .  .  .  .  .     77   10.52
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .      6     .82
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      2     .27
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      1     .14
+           Roque "Rocky" De La Fuente (REF).  .  .  .      0
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      4     .55
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .      4
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .    603   84.57
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .     84   11.78
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     14    1.96
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      1     .14
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .      6     .84
+           Steven Machat (NPA) .  .  .  .  .  .  .  .      2     .28
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      2     .28
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      1     .14
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     23
+
+
+          Representative in Congress District 1
+          (VOTE FOR)  1
+           Matt Gaetz (REP) .  .  .  .  .  .  .  .  .    580   84.18
+           Steven Specht (DEM) .  .  .  .  .  .  .  .    109   15.82
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     47
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .    544   77.27
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    160   22.73
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     32
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    367   50.41
+           Jason French (NPA)  .  .  .  .  .  .  .  .    361   49.59
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .      8
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    320   44.32
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    175   24.24
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    227   31.44
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     14
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .    521   72.56
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    197   27.44
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     18
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    412   58.44
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    293   41.56
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     31
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    291   40.81
+           Ron French (NPA) .  .  .  .  .  .  .  .  .    148   20.76
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .     78   10.94
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    155   21.74
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     41    5.75
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     22
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    544   78.50
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    149   21.50
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     43
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    320   49.38
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    328   50.62
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     88
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    266   41.30
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    378   58.70
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     92
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    307   47.38
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    341   52.62
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     88
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    308   46.88
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    349   53.12
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     79
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    307   46.80
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    349   53.20
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     80
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    306   46.86
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    347   53.14
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     83
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    298   45.78
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    353   54.22
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     85
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    284   43.83
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    364   56.17
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     87
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    306   47.00
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    345   53.00
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     85
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    419   58.52
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    297   41.48
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     20
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    470   67.05
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    231   32.95
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     35
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    373   52.46
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    338   47.54
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     25
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    573   81.74
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    128   18.26
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     35
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    554   79.14
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    146   20.86
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     36
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0004 Bethlehem
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1579
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1228
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          77.77
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .   1077   88.64
+           Hillary Rodham Clinton (DEM) .  .  .  .  .    105    8.64
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .     24    1.98
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      2     .16
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      2     .16
+           Roque "Rocky" De La Fuente (REF).  .  .  .      1     .08
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      4     .33
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     12
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .   1006   83.42
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .    127   10.53
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     39    3.23
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      3     .25
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .     16    1.33
+           Steven Machat (NPA) .  .  .  .  .  .  .  .     11     .91
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      3     .25
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      1     .08
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     22
+
+
+          Representative in Congress District 1
+          (VOTE FOR)  1
+           Matt Gaetz (REP) .  .  .  .  .  .  .  .  .    998   85.74
+           Steven Specht (DEM) .  .  .  .  .  .  .  .    166   14.26
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     64
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .    874   73.32
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    318   26.68
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     36
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    450   37.47
+           Jason French (NPA)  .  .  .  .  .  .  .  .    751   62.53
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     27
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    580   47.97
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    236   19.52
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    393   32.51
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     19
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .    862   71.89
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    337   28.11
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     29
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    709   59.98
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    473   40.02
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     46
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    404   34.18
+           Ron French (NPA) .  .  .  .  .  .  .  .  .    249   21.07
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .    116    9.81
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    377   31.90
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     36    3.05
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     46
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    799   67.83
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    379   32.17
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     50
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    498   46.33
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    577   53.67
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .    151
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    377   35.57
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    683   64.43
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    167
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    510   47.18
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    571   52.82
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .    145
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    488   45.23
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    591   54.77
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    149
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    471   43.77
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    605   56.23
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    152
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    444   41.34
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    630   58.66
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    154
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    458   42.64
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    616   57.36
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    154
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    456   42.42
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    619   57.58
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    153
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    455   42.56
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    614   57.44
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    159
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    663   56.47
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    511   43.53
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     54
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    742   63.75
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    422   36.25
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     64
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    652   55.35
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    526   44.65
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     49
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    924   79.31
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    241   20.69
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     61
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    879   75.91
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    279   24.09
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     70
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0005 Gritney
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .    574
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .    435
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          75.78
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .    390   90.91
+           Hillary Rodham Clinton (DEM) .  .  .  .  .     30    6.99
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .      6    1.40
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      0
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      0
+           Roque "Rocky" De La Fuente (REF).  .  .  .      0
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      3     .70
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .      5
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .    354   84.69
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .     38    9.09
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .      5    1.20
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      2     .48
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .     14    3.35
+           Steven Machat (NPA) .  .  .  .  .  .  .  .      0
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      5    1.20
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      0
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     17
+
+
+          Representative in Congress District 1
+          (VOTE FOR)  1
+           Matt Gaetz (REP) .  .  .  .  .  .  .  .  .    351   86.45
+           Steven Specht (DEM) .  .  .  .  .  .  .  .     55   13.55
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     29
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .    311   75.30
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    102   24.70
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     22
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    261   61.12
+           Jason French (NPA)  .  .  .  .  .  .  .  .    166   38.88
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .      8
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    135   31.76
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    197   46.35
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .     93   21.88
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     10
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .    312   72.90
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    116   27.10
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .      7
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    236   55.66
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    188   44.34
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     11
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    147   34.67
+           Ron French (NPA) .  .  .  .  .  .  .  .  .     94   22.17
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .     34    8.02
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    139   32.78
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     10    2.36
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     11
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    287   68.17
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    134   31.83
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     14
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    190   49.61
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    193   50.39
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     52
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    160   42.44
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    217   57.56
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     58
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    185   48.68
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    195   51.32
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     55
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    176   47.18
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    197   52.82
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     62
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    173   46.38
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    200   53.62
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     62
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    167   44.77
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    206   55.23
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     62
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    175   47.30
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    195   52.70
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     64
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    171   45.97
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    201   54.03
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     63
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    176   47.06
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    198   52.94
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     61
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    256   61.39
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    161   38.61
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     18
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    276   68.49
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    127   31.51
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     32
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    254   62.10
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    155   37.90
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     26
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    332   81.57
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .     75   18.43
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     28
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    324   80.80
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .     77   19.20
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     34
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0006 Noma
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .   2369
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1843
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          77.80
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .   1667   91.04
+           Hillary Rodham Clinton (DEM) .  .  .  .  .    126    6.88
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .     26    1.42
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      2     .11
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      3     .16
+           Roque "Rocky" De La Fuente (REF).  .  .  .      0
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      7     .38
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     10
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .   1567   87.10
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .    153    8.50
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     34    1.89
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      6     .33
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .     20    1.11
+           Steven Machat (NPA) .  .  .  .  .  .  .  .     10     .56
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      5     .28
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      4     .22
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     44
+
+
+          Representative in Congress District 1
+          (VOTE FOR)  1
+           Matt Gaetz (REP) .  .  .  .  .  .  .  .  .   1043   87.43
+           Steven Specht (DEM) .  .  .  .  .  .  .  .    150   12.57
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     66
+
+
+          Representative in Congress District 2
+          (VOTE FOR)  1
+           Neal Dunn (REP)  .  .  .  .  .  .  .  .  .    498   89.57
+           Walter Dartland (DEM)  .  .  .  .  .  .  .     41    7.37
+           Rob Lapham (LPF) .  .  .  .  .  .  .  .  .     17    3.06
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      0
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     28
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .   1329   74.96
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    444   25.04
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     70
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    939   52.02
+           Jason French (NPA)  .  .  .  .  .  .  .  .    866   47.98
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     36
+
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    978   53.97
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    375   20.70
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    459   25.33
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     30
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .   1304   72.61
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    492   27.39
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     47
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .   1044   58.52
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    740   41.48
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     57
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    770   43.55
+           Ron French (NPA) .  .  .  .  .  .  .  .  .    200   11.31
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .    231   13.07
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    520   29.41
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     47    2.66
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     75
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .   1253   70.71
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    519   29.29
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     71
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    769   47.29
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    857   52.71
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    216
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    650   40.30
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    963   59.70
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    230
+
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    857   52.22
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    784   47.78
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    202
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    768   47.50
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    849   52.50
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    225
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    756   46.96
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    854   53.04
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    232
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    706   43.88
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    903   56.12
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .    232
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    725   45.09
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    883   54.91
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    235
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    722   44.93
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    885   55.07
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    236
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    724   45.39
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    871   54.61
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    248
+
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    964   54.80
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    795   45.20
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     84
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .   1170   66.74
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    583   33.26
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     89
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    993   55.85
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    785   44.15
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     65
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .   1394   79.43
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    361   20.57
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     88
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .   1351   77.82
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    385   22.18
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    107
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0007 West Bonifay
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .   2032
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1543
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          75.94
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .   1307   85.37
+           Hillary Rodham Clinton (DEM) .  .  .  .  .    180   11.76
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .     26    1.70
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      1     .07
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      4     .26
+           Roque "Rocky" De La Fuente (REF).  .  .  .      7     .46
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      6     .39
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     10
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .   1266   83.45
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .    180   11.87
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     33    2.18
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .     11     .73
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .     16    1.05
+           Steven Machat (NPA) .  .  .  .  .  .  .  .      5     .33
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      6     .40
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      0
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     25
+
+
+          Representative in Congress District 2
+          (VOTE FOR)  1
+           Neal Dunn (REP)  .  .  .  .  .  .  .  .  .   1236   83.18
+           Walter Dartland (DEM)  .  .  .  .  .  .  .    201   13.53
+           Rob Lapham (LPF) .  .  .  .  .  .  .  .  .     48    3.23
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      1     .07
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     56
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .   1128   74.95
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    377   25.05
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     38
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    812   53.39
+           Jason French (NPA)  .  .  .  .  .  .  .  .    709   46.61
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     22
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    633   41.67
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    452   29.76
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    434   28.57
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     24
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .   1187   78.56
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    324   21.44
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     32
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    832   55.21
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    675   44.79
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     36
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    580   39.14
+           Ron French (NPA) .  .  .  .  .  .  .  .  .    145    9.78
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .    215   14.51
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    492   33.20
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     50    3.37
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     60
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    821   54.70
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    680   45.30
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     42
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    664   48.15
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    715   51.85
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    163
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    545   39.41
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    838   60.59
+              Over Votes .  .  .  .  .  .  .  .  .  .      3
+             Under Votes .  .  .  .  .  .  .  .  .  .    157
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    675   49.16
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    698   50.84
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    170
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    655   47.67
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    719   52.33
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    169
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    644   47.25
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    719   52.75
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .    179
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    617   45.10
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    751   54.90
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .    173
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    601   43.90
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    768   56.10
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    174
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    612   44.87
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    752   55.13
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    179
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    617   45.30
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    745   54.70
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .    181
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    805   54.32
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    677   45.68
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     61
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    977   65.70
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    510   34.30
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     55
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    825   55.11
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    672   44.89
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     46
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .   1226   82.50
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    260   17.50
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     57
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .   1109   74.98
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    370   25.02
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     64
+
+PRECINCT REPORT       2016 General Election            OFFICIAL RESULTS W/PROV
+Run Date:11/28/16     November 8, 2016
+RUN TIME:11:44 AM     Holmes County, FL
+
+          0008 East Bonifay
+                                                      VOTES  PERCENT
+           REGISTERED VOTERS - TOTAL .  .  .  .  .  .   1340
+           BALLOTS CAST - TOTAL.  .  .  .  .  .  .  .   1022
+           BALLOTS CAST - BLANK.  .  .  .  .  .  .  .      0
+           VOTER TURNOUT - TOTAL  .  .  .  .  .  .  .          76.27
+           VOTER TURNOUT - BLANK  .  .  .  .  .  .  .
+
+
+          President and Vice President
+          (VOTE FOR)  1
+           Donald J. Trump (REP)  .  .  .  .  .  .  .    835   82.19
+           Hillary Rodham Clinton (DEM) .  .  .  .  .    151   14.86
+           Gary Johnson (LPF)  .  .  .  .  .  .  .  .     18    1.77
+           Darrell L. Castle (CPF).  .  .  .  .  .  .      3     .30
+           Jill Stein (GRE) .  .  .  .  .  .  .  .  .      3     .30
+           Roque "Rocky" De La Fuente (REF).  .  .  .      1     .10
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      5     .49
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .      5
+
+
+          United States Senator
+          (VOTE FOR)  1
+           Marco Rubio (REP).  .  .  .  .  .  .  .  .    776   77.52
+           Patrick Murphy (DEM).  .  .  .  .  .  .  .    169   16.88
+           Paul Stanton (LPF)  .  .  .  .  .  .  .  .     26    2.60
+           Tony Khoury (NPA).  .  .  .  .  .  .  .  .      7     .70
+           Bruce Nathan (NPA)  .  .  .  .  .  .  .  .     12    1.20
+           Steven Machat (NPA) .  .  .  .  .  .  .  .      4     .40
+           Basil E. Dalack (NPA)  .  .  .  .  .  .  .      5     .50
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      2     .20
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     20
+
+
+          Representative in Congress District 2
+          (VOTE FOR)  1
+           Neal Dunn (REP)  .  .  .  .  .  .  .  .  .    814   82.39
+           Walter Dartland (DEM)  .  .  .  .  .  .  .    158   15.99
+           Rob Lapham (LPF) .  .  .  .  .  .  .  .  .     15    1.52
+           WRITE-IN.  .  .  .  .  .  .  .  .  .  .  .      1     .10
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     33
+
+
+          State Representative District 5
+          (VOTE FOR)  1
+           Brad Drake (REP) .  .  .  .  .  .  .  .  .    716   72.91
+           Jamey Westbrook (NPA)  .  .  .  .  .  .  .    266   27.09
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     40
+
+
+          Sheriff
+          (VOTE FOR)  1
+           John Tate (REP)  .  .  .  .  .  .  .  .  .    509   51.05
+           Jason French (NPA)  .  .  .  .  .  .  .  .    488   48.95
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     25
+
+          Property Appraiser
+          (VOTE FOR)  1
+           Bryan Bell (REP) .  .  .  .  .  .  .  .  .    421   41.72
+           Tammie Harrison (DEM)  .  .  .  .  .  .  .    266   26.36
+           Calvin Sherrouse (NPA) .  .  .  .  .  .  .    322   31.91
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     13
+
+
+          Tax Collector
+          (VOTE FOR)  1
+           Harry Bell (REP) .  .  .  .  .  .  .  .  .    749   74.60
+           Jackie Faircloth Jr (NPA) .  .  .  .  .  .    255   25.40
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     18
+
+
+          Superintendent of Schools
+          (VOTE FOR)  1
+           Terry L. Mears (REP).  .  .  .  .  .  .  .    502   50.15
+           Janis Lee Johnson (DEM).  .  .  .  .  .  .    499   49.85
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     21
+
+
+          County Commissioner District 1
+          (VOTE FOR)  1
+           Bobby Sasnett (REP) .  .  .  .  .  .  .  .    368   36.95
+           Ron French (NPA) .  .  .  .  .  .  .  .  .    103   10.34
+           Karen Byrd O'Steen (NPA)  .  .  .  .  .  .    158   15.86
+           Brandon Newsom (NPA).  .  .  .  .  .  .  .    338   33.94
+           Donald Edward Tate (NPA)  .  .  .  .  .  .     29    2.91
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     26
+
+
+          County Commissioner District 5
+          (VOTE FOR)  1
+           Clint Erickson (REP).  .  .  .  .  .  .  .    521   52.20
+           Bill Parish (DEM).  .  .  .  .  .  .  .  .    477   47.80
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     24
+
+
+          Retain Justice Charles T. Canady
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    455   48.92
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    475   51.08
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     90
+
+
+          Retain Justice Jorge Labarga
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    382   40.99
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    550   59.01
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     90
+
+          Retain Justice Ricky L. Polston
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    475   51.13
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    454   48.87
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     93
+
+
+          Retain Judge Ross Bilbrey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    430   46.34
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    498   53.66
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     93
+
+
+          Retain Judge Susan Kelsey
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    433   46.71
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    494   53.29
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     95
+
+
+          Retain Judge Lori S. Rowe
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    406   43.94
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    518   56.06
+              Over Votes .  .  .  .  .  .  .  .  .  .      2
+             Under Votes .  .  .  .  .  .  .  .  .  .     96
+
+
+          Retain Judge Kent Wetherell
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    429   46.43
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    495   53.57
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     98
+
+
+          Retain Judge Bo Winokur
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    411   44.43
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    514   55.57
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     97
+
+
+          Retain Judge Jim Wolf
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    422   45.62
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    503   54.38
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     97
+
+          School Board Member District 2
+          (VOTE FOR)  1
+           Wilburn Baker .  .  .  .  .  .  .  .  .  .    513   51.56
+           Debbie Kolmetz.  .  .  .  .  .  .  .  .  .    482   48.44
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     27
+
+
+          Constitutional Amendment 1
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    615   62.69
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    366   37.31
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     40
+
+
+          Constitutional Amendment 2
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    555   56.12
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    434   43.88
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     33
+
+
+          Constitutional Amendment 3
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    805   81.81
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    179   18.19
+              Over Votes .  .  .  .  .  .  .  .  .  .      1
+             Under Votes .  .  .  .  .  .  .  .  .  .     37
+
+
+          Constitutional Amendment 5
+          (VOTE FOR)  1
+           Yes  .  .  .  .  .  .  .  .  .  .  .  .  .    721   73.72
+           No.  .  .  .  .  .  .  .  .  .  .  .  .  .    257   26.28
+              Over Votes .  .  .  .  .  .  .  .  .  .      0
+             Under Votes .  .  .  .  .  .  .  .  .  .     44
+</PRE>
+</HTML>
