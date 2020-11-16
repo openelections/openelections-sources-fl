@@ -1,0 +1,457 @@
+Contest,Candidate Issue,Party,Precinct Name,Provisional Votes,Mail Votes,Early Votes,Election Day Votes,Total Votes,% of Total Votes
+President and Vice President,Trump and Pence,REP,CARYVILLE TOWN HALL,0,36,69,80,185,55.06
+President and Vice President,Trump and Pence,REP,FIVE POINT COMMUNITY CENTER,0,184,291,260,735,91.88
+President and Vice President,Trump and Pence,REP,HINSON CROSSROADS FIRE STATION,0,68,173,184,425,88.91
+President and Vice President,Trump and Pence,REP,"AGRICULTURE CENTER - CHIPLEY  ",0,493,1351,420,2264,80.80
+President and Vice President,Trump and Pence,REP,VERNON CITY HALL,0,198,528,230,956,80.88
+President and Vice President,Trump and Pence,REP,NEW HOPE-CAMPBELL PARK,0,56,119,84,259,52.86
+President and Vice President,Trump and Pence,REP,ORANGE HILL FIRE STATION,0,183,467,357,1007,84.62
+President and Vice President,Trump and Pence,REP,ARMORY - CHIPLEY,0,166,555,167,888,73.21
+President and Vice President,Trump and Pence,REP,WAUSAU TOWN HALL,0,135,282,238,655,81.47
+President and Vice President,Trump and Pence,REP,EBRO CITY HALL,-,-,-,-,185,59.29
+President and Vice President,Trump and Pence,REP,GREENHEAD,0,349,660,513,1522,87.27
+President and Vice President,Trump and Pence,REP,"SUNNY HILLS COMMUNITY CENTER  ",0,173,289,333,795,80.79
+President and Vice President,Biden and Harris,DEM,CARYVILLE TOWN HALL,0,61,49,31,141,41.96
+President and Vice President,Biden and Harris,DEM,FIVE POINT COMMUNITY CENTER,-,-,-,-,59,7.38
+President and Vice President,Biden and Harris,DEM,HINSON CROSSROADS FIRE STATION,-,-,-,-,51,10.67
+President and Vice President,Biden and Harris,DEM,"AGRICULTURE CENTER - CHIPLEY  ",0,199,245,68,512,18.27
+President and Vice President,Biden and Harris,DEM,VERNON CITY HALL,-,-,-,-,210,17.77
+President and Vice President,Biden and Harris,DEM,NEW HOPE-CAMPBELL PARK,0,61,106,60,227,46.33
+President and Vice President,Biden and Harris,DEM,ORANGE HILL FIRE STATION,0,72,58,44,174,14.62
+President and Vice President,Biden and Harris,DEM,ARMORY - CHIPLEY,0,121,154,43,318,26.22
+President and Vice President,Biden and Harris,DEM,WAUSAU TOWN HALL,0,62,35,42,139,17.29
+President and Vice President,Biden and Harris,DEM,EBRO CITY HALL,-,-,-,-,126,40.38
+President and Vice President,Biden and Harris,DEM,GREENHEAD,0,92,80,38,210,12.04
+President and Vice President,Biden and Harris,DEM,"SUNNY HILLS COMMUNITY CENTER  ",0,84,49,47,180,18.29
+President and Vice President,Jorgensen and Cohen,LPF,CARYVILLE TOWN HALL,-,-,-,-,9,2.68
+President and Vice President,Jorgensen and Cohen,LPF,FIVE POINT COMMUNITY CENTER,-,-,-,-,4,0.50
+President and Vice President,Jorgensen and Cohen,LPF,HINSON CROSSROADS FIRE STATION,0,0,0,0,0,0.00
+President and Vice President,Jorgensen and Cohen,LPF,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,18,0.64
+President and Vice President,Jorgensen and Cohen,LPF,VERNON CITY HALL,-,-,-,-,11,0.93
+President and Vice President,Jorgensen and Cohen,LPF,NEW HOPE-CAMPBELL PARK,-,-,-,-,1,0.20
+President and Vice President,Jorgensen and Cohen,LPF,ORANGE HILL FIRE STATION,-,-,-,-,5,0.42
+President and Vice President,Jorgensen and Cohen,LPF,ARMORY - CHIPLEY,-,-,-,-,2,0.16
+President and Vice President,Jorgensen and Cohen,LPF,WAUSAU TOWN HALL,-,-,-,-,8,1.00
+President and Vice President,Jorgensen and Cohen,LPF,EBRO CITY HALL,-,-,-,-,1,0.32
+President and Vice President,Jorgensen and Cohen,LPF,GREENHEAD,-,-,-,-,5,0.29
+President and Vice President,Jorgensen and Cohen,LPF,"SUNNY HILLS COMMUNITY CENTER  ",-,-,-,-,5,0.51
+President and Vice President,De La Fuente and Richardson,REF,CARYVILLE TOWN HALL,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,FIVE POINT COMMUNITY CENTER,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,HINSON CROSSROADS FIRE STATION,-,-,-,-,1,0.21
+President and Vice President,De La Fuente and Richardson,REF,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,1,0.04
+President and Vice President,De La Fuente and Richardson,REF,VERNON CITY HALL,-,-,-,-,1,0.08
+President and Vice President,De La Fuente and Richardson,REF,NEW HOPE-CAMPBELL PARK,-,-,-,-,1,0.20
+President and Vice President,De La Fuente and Richardson,REF,ORANGE HILL FIRE STATION,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,ARMORY - CHIPLEY,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,WAUSAU TOWN HALL,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,EBRO CITY HALL,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,GREENHEAD,-,-,-,-,1,0.06
+President and Vice President,De La Fuente and Richardson,REF,"SUNNY HILLS COMMUNITY CENTER  ",0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,CARYVILLE TOWN HALL,-,-,-,-,1,0.30
+President and Vice President,La Riva and Freeman,PSL,FIVE POINT COMMUNITY CENTER,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,HINSON CROSSROADS FIRE STATION,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,1,0.04
+President and Vice President,La Riva and Freeman,PSL,VERNON CITY HALL,-,-,-,-,2,0.17
+President and Vice President,La Riva and Freeman,PSL,NEW HOPE-CAMPBELL PARK,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,ORANGE HILL FIRE STATION,-,-,-,-,2,0.17
+President and Vice President,La Riva and Freeman,PSL,ARMORY - CHIPLEY,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,WAUSAU TOWN HALL,-,-,-,-,1,0.12
+President and Vice President,La Riva and Freeman,PSL,EBRO CITY HALL,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,GREENHEAD,-,-,-,-,2,0.11
+President and Vice President,La Riva and Freeman,PSL,"SUNNY HILLS COMMUNITY CENTER  ",-,-,-,-,1,0.10
+President and Vice President,Hawkins and Walker,GRE,CARYVILLE TOWN HALL,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,FIVE POINT COMMUNITY CENTER,-,-,-,-,2,0.25
+President and Vice President,Hawkins and Walker,GRE,HINSON CROSSROADS FIRE STATION,-,-,-,-,1,0.21
+President and Vice President,Hawkins and Walker,GRE,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,3,0.11
+President and Vice President,Hawkins and Walker,GRE,VERNON CITY HALL,-,-,-,-,1,0.08
+President and Vice President,Hawkins and Walker,GRE,NEW HOPE-CAMPBELL PARK,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,ORANGE HILL FIRE STATION,-,-,-,-,1,0.08
+President and Vice President,Hawkins and Walker,GRE,ARMORY - CHIPLEY,-,-,-,-,2,0.16
+President and Vice President,Hawkins and Walker,GRE,WAUSAU TOWN HALL,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,EBRO CITY HALL,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,GREENHEAD,-,-,-,-,3,0.17
+President and Vice President,Hawkins and Walker,GRE,"SUNNY HILLS COMMUNITY CENTER  ",-,-,-,-,2,0.20
+President and Vice President," Blankenship and Mohr",CPF,CARYVILLE TOWN HALL,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,FIVE POINT COMMUNITY CENTER,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,HINSON CROSSROADS FIRE STATION,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,1,0.04
+President and Vice President," Blankenship and Mohr",CPF,VERNON CITY HALL,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,NEW HOPE-CAMPBELL PARK,-,-,-,-,1,0.20
+President and Vice President," Blankenship and Mohr",CPF,ORANGE HILL FIRE STATION,-,-,-,-,1,0.08
+President and Vice President," Blankenship and Mohr",CPF,ARMORY - CHIPLEY,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,WAUSAU TOWN HALL,-,-,-,-,1,0.12
+President and Vice President," Blankenship and Mohr",CPF,EBRO CITY HALL,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,GREENHEAD,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,"SUNNY HILLS COMMUNITY CENTER  ",-,-,-,-,1,0.10
+President and Vice President,WRITE-IN,NON,CARYVILLE TOWN HALL,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,FIVE POINT COMMUNITY CENTER,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,HINSON CROSSROADS FIRE STATION,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,2,0.07
+President and Vice President,WRITE-IN,NON,VERNON CITY HALL,-,-,-,-,1,0.08
+President and Vice President,WRITE-IN,NON,NEW HOPE-CAMPBELL PARK,-,-,-,-,1,0.20
+President and Vice President,WRITE-IN,NON,ORANGE HILL FIRE STATION,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,ARMORY - CHIPLEY,-,-,-,-,3,0.25
+President and Vice President,WRITE-IN,NON,WAUSAU TOWN HALL,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,EBRO CITY HALL,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,GREENHEAD,-,-,-,-,1,0.06
+President and Vice President,WRITE-IN,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,0,0,0,0,0.00
+Representative in Congress District 2,Neal Dunn,REP,CARYVILLE TOWN HALL,0,58,81,86,225,91.46
+Representative in Congress District 2,Neal Dunn,REP,FIVE POINT COMMUNITY CENTER,0,199,289,248,736,98.53
+Representative in Congress District 2,Neal Dunn,REP,HINSON CROSSROADS FIRE STATION,0,79,175,177,431,97.73
+Representative in Congress District 2,Neal Dunn,REP,"AGRICULTURE CENTER - CHIPLEY  ",0,583,1427,447,2457,96.96
+Representative in Congress District 2,Neal Dunn,REP,VERNON CITY HALL,0,222,575,234,1031,95.37
+Representative in Congress District 2,Neal Dunn,REP,NEW HOPE-CAMPBELL PARK,0,73,143,98,314,83.29
+Representative in Congress District 2,Neal Dunn,REP,ORANGE HILL FIRE STATION,0,213,489,365,1067,96.74
+Representative in Congress District 2,Neal Dunn,REP,ARMORY - CHIPLEY,0,208,596,182,986,95.36
+Representative in Congress District 2,Neal Dunn,REP,WAUSAU TOWN HALL,0,158,298,263,719,96.12
+Representative in Congress District 2,Neal Dunn,REP,EBRO CITY HALL,-,-,-,-,210,82.03
+Representative in Congress District 2,Neal Dunn,REP,GREENHEAD,0,402,684,512,1598,98.28
+Representative in Congress District 2,Neal Dunn,REP,"SUNNY HILLS COMMUNITY CENTER  ",0,190,310,345,845,95.70
+Representative in Congress District 2,WRITE-IN,NON,CARYVILLE TOWN HALL,-,-,-,-,21,8.54
+Representative in Congress District 2,WRITE-IN,NON,FIVE POINT COMMUNITY CENTER,-,-,-,-,11,1.47
+Representative in Congress District 2,WRITE-IN,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,10,2.27
+Representative in Congress District 2,WRITE-IN,NON,"AGRICULTURE CENTER - CHIPLEY  ",-,-,-,-,77,3.04
+Representative in Congress District 2,WRITE-IN,NON,VERNON CITY HALL,-,-,-,-,50,4.63
+Representative in Congress District 2,WRITE-IN,NON,NEW HOPE-CAMPBELL PARK,-,-,-,-,63,16.71
+Representative in Congress District 2,WRITE-IN,NON,ORANGE HILL FIRE STATION,-,-,-,-,36,3.26
+Representative in Congress District 2,WRITE-IN,NON,ARMORY - CHIPLEY,-,-,-,-,48,4.64
+Representative in Congress District 2,WRITE-IN,NON,WAUSAU TOWN HALL,-,-,-,-,29,3.88
+Representative in Congress District 2,WRITE-IN,NON,EBRO CITY HALL,-,-,-,-,46,17.97
+Representative in Congress District 2,WRITE-IN,NON,GREENHEAD,-,-,-,-,28,1.72
+Representative in Congress District 2,WRITE-IN,NON,"SUNNY HILLS COMMUNITY CENTER  ",-,-,-,-,38,4.30
+Supervisor of Elections,Carol Finch Rudd,REP,CARYVILLE TOWN HALL,0,36,69,73,178,54.27
+Supervisor of Elections,Carol Finch Rudd,REP,FIVE POINT COMMUNITY CENTER,0,178,274,238,690,87.90
+Supervisor of Elections,Carol Finch Rudd,REP,HINSON CROSSROADS FIRE STATION,0,75,163,167,405,87.47
+Supervisor of Elections,Carol Finch Rudd,REP,"AGRICULTURE CENTER - CHIPLEY  ",0,556,1335,396,2287,83.01
+Supervisor of Elections,Carol Finch Rudd,REP,VERNON CITY HALL,0,200,494,205,899,77.43
+Supervisor of Elections,Carol Finch Rudd,REP,NEW HOPE-CAMPBELL PARK,0,64,108,64,236,48.66
+Supervisor of Elections,Carol Finch Rudd,REP,ORANGE HILL FIRE STATION,0,199,471,342,1012,86.87
+Supervisor of Elections,Carol Finch Rudd,REP,ARMORY - CHIPLEY,0,183,543,151,877,73.27
+Supervisor of Elections,Carol Finch Rudd,REP,WAUSAU TOWN HALL,0,140,270,230,640,81.01
+Supervisor of Elections,Carol Finch Rudd,REP,EBRO CITY HALL,-,-,-,-,160,52.12
+Supervisor of Elections,Carol Finch Rudd,REP,GREENHEAD,0,372,661,487,1520,89.83
+Supervisor of Elections,Carol Finch Rudd,REP,"SUNNY HILLS COMMUNITY CENTER  ",0,184,285,312,781,82.30
+Supervisor of Elections,Priscilla Peterson Brown,DEM,CARYVILLE TOWN HALL,0,60,49,41,150,45.73
+Supervisor of Elections,Priscilla Peterson Brown,DEM,FIVE POINT COMMUNITY CENTER,-,-,-,-,95,12.10
+Supervisor of Elections,Priscilla Peterson Brown,DEM,HINSON CROSSROADS FIRE STATION,-,-,-,-,58,12.53
+Supervisor of Elections,Priscilla Peterson Brown,DEM,"AGRICULTURE CENTER - CHIPLEY  ",0,137,244,87,468,16.99
+Supervisor of Elections,Priscilla Peterson Brown,DEM,VERNON CITY HALL,0,81,130,51,262,22.57
+Supervisor of Elections,Priscilla Peterson Brown,DEM,NEW HOPE-CAMPBELL PARK,0,53,117,79,249,51.34
+Supervisor of Elections,Priscilla Peterson Brown,DEM,ORANGE HILL FIRE STATION,0,55,49,49,153,13.13
+Supervisor of Elections,Priscilla Peterson Brown,DEM,ARMORY - CHIPLEY,0,101,157,62,320,26.73
+Supervisor of Elections,Priscilla Peterson Brown,DEM,WAUSAU TOWN HALL,0,54,46,50,150,18.99
+Supervisor of Elections,Priscilla Peterson Brown,DEM,EBRO CITY HALL,-,-,-,-,147,47.88
+Supervisor of Elections,Priscilla Peterson Brown,DEM,GREENHEAD,0,67,65,40,172,10.17
+Supervisor of Elections,Priscilla Peterson Brown,DEM,"SUNNY HILLS COMMUNITY CENTER  ",0,61,49,58,168,17.70
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,CARYVILLE TOWN HALL,0,41,64,67,172,57.53
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,FIVE POINT COMMUNITY CENTER,0,133,182,153,468,67.34
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,HINSON CROSSROADS FIRE STATION,0,63,115,124,302,71.23
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,438,1015,319,1772,70.80
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,VERNON CITY HALL,0,153,391,161,705,66.76
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,NEW HOPE-CAMPBELL PARK,0,65,106,72,243,55.48
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,ORANGE HILL FIRE STATION,0,145,337,241,723,66.70
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,ARMORY - CHIPLEY,0,146,427,142,715,64.76
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,WAUSAU TOWN HALL,0,95,190,176,461,63.24
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,EBRO CITY HALL,-,-,-,-,146,55.09
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,GREENHEAD,0,291,491,336,1118,71.99
+Justice of the Supreme Court Carlos G. Muniz,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,157,234,233,624,72.73
+Justice of the Supreme Court Carlos G. Muniz,No,NON,CARYVILLE TOWN HALL,0,44,46,37,127,42.47
+Justice of the Supreme Court Carlos G. Muniz,No,NON,FIVE POINT COMMUNITY CENTER,0,58,88,81,227,32.66
+Justice of the Supreme Court Carlos G. Muniz,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,122,28.77
+Justice of the Supreme Court Carlos G. Muniz,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,167,424,140,731,29.20
+Justice of the Supreme Court Carlos G. Muniz,No,NON,VERNON CITY HALL,0,100,181,70,351,33.24
+Justice of the Supreme Court Carlos G. Muniz,No,NON,NEW HOPE-CAMPBELL PARK,0,41,101,53,195,44.52
+Justice of the Supreme Court Carlos G. Muniz,No,NON,ORANGE HILL FIRE STATION,0,89,147,125,361,33.30
+Justice of the Supreme Court Carlos G. Muniz,No,NON,ARMORY - CHIPLEY,0,100,226,63,389,35.24
+Justice of the Supreme Court Carlos G. Muniz,No,NON,WAUSAU TOWN HALL,0,84,107,77,268,36.76
+Justice of the Supreme Court Carlos G. Muniz,No,NON,EBRO CITY HALL,-,-,-,-,119,44.91
+Justice of the Supreme Court Carlos G. Muniz,No,NON,GREENHEAD,0,114,166,155,435,28.01
+Justice of the Supreme Court Carlos G. Muniz,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,68,71,95,234,27.27
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,CARYVILLE TOWN HALL,0,50,74,60,184,60.73
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,FIVE POINT COMMUNITY CENTER,0,129,192,155,476,68.49
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,HINSON CROSSROADS FIRE STATION,0,56,114,128,298,69.95
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,456,1017,336,1809,71.70
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,VERNON CITY HALL,0,167,402,166,735,69.14
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,NEW HOPE-CAMPBELL PARK,0,68,115,83,266,60.05
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,ORANGE HILL FIRE STATION,0,155,327,242,724,66.24
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,ARMORY - CHIPLEY,0,154,415,154,723,65.14
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,WAUSAU TOWN HALL,0,129,204,190,523,70.58
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,EBRO CITY HALL,-,-,-,-,154,57.89
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,GREENHEAD,0,283,499,341,1123,72.36
+"First District Court of Appeals Joseph Lewis, Jr.",Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,171,237,245,653,75.14
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,CARYVILLE TOWN HALL,0,37,37,45,119,39.27
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,FIVE POINT COMMUNITY CENTER,0,65,78,76,219,31.51
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,128,30.05
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,159,433,122,714,28.30
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,VERNON CITY HALL,0,89,173,66,328,30.86
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,NEW HOPE-CAMPBELL PARK,0,37,92,48,177,39.95
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,ORANGE HILL FIRE STATION,0,84,159,126,369,33.76
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,ARMORY - CHIPLEY,0,93,243,51,387,34.86
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,WAUSAU TOWN HALL,0,53,96,69,218,29.42
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,EBRO CITY HALL,-,-,-,-,112,42.11
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,GREENHEAD,0,118,162,149,429,27.64
+"First District Court of Appeals Joseph Lewis, Jr.",No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,57,73,86,216,24.86
+First District Court of Appeals Scott Makar,Yes,NON,CARYVILLE TOWN HALL,0,41,63,64,168,55.63
+First District Court of Appeals Scott Makar,Yes,NON,FIVE POINT COMMUNITY CENTER,0,132,185,157,474,68.60
+First District Court of Appeals Scott Makar,Yes,NON,HINSON CROSSROADS FIRE STATION,0,58,119,126,303,71.46
+First District Court of Appeals Scott Makar,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,426,1012,337,1775,70.52
+First District Court of Appeals Scott Makar,Yes,NON,VERNON CITY HALL,0,168,400,161,729,68.71
+First District Court of Appeals Scott Makar,Yes,NON,NEW HOPE-CAMPBELL PARK,0,67,115,76,258,58.37
+First District Court of Appeals Scott Makar,Yes,NON,ORANGE HILL FIRE STATION,0,151,344,255,750,68.81
+First District Court of Appeals Scott Makar,Yes,NON,ARMORY - CHIPLEY,0,149,447,148,744,67.21
+First District Court of Appeals Scott Makar,Yes,NON,WAUSAU TOWN HALL,0,113,207,194,514,69.37
+First District Court of Appeals Scott Makar,Yes,NON,EBRO CITY HALL,-,-,-,-,146,55.09
+First District Court of Appeals Scott Makar,Yes,NON,GREENHEAD,0,288,507,347,1142,73.58
+First District Court of Appeals Scott Makar,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,170,243,238,651,75.26
+First District Court of Appeals Scott Makar,No,NON,CARYVILLE TOWN HALL,0,45,48,41,134,44.37
+First District Court of Appeals Scott Makar,No,NON,FIVE POINT COMMUNITY CENTER,0,61,82,74,217,31.40
+First District Court of Appeals Scott Makar,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,121,28.54
+First District Court of Appeals Scott Makar,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,186,434,122,742,29.48
+First District Court of Appeals Scott Makar,No,NON,VERNON CITY HALL,0,85,175,72,332,31.29
+First District Court of Appeals Scott Makar,No,NON,NEW HOPE-CAMPBELL PARK,0,37,93,54,184,41.63
+First District Court of Appeals Scott Makar,No,NON,ORANGE HILL FIRE STATION,0,86,141,113,340,31.19
+First District Court of Appeals Scott Makar,No,NON,ARMORY - CHIPLEY,0,100,207,56,363,32.79
+First District Court of Appeals Scott Makar,No,NON,WAUSAU TOWN HALL,0,68,90,69,227,30.63
+First District Court of Appeals Scott Makar,No,NON,EBRO CITY HALL,-,-,-,-,119,44.91
+First District Court of Appeals Scott Makar,No,NON,GREENHEAD,0,115,152,143,410,26.42
+First District Court of Appeals Scott Makar,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,57,68,89,214,24.74
+First District Court of Appeals Rachel Nordby,Yes,NON,CARYVILLE TOWN HALL,0,58,72,65,195,63.52
+First District Court of Appeals Rachel Nordby,Yes,NON,FIVE POINT COMMUNITY CENTER,0,136,186,157,479,69.22
+First District Court of Appeals Rachel Nordby,Yes,NON,HINSON CROSSROADS FIRE STATION,0,58,121,125,304,72.04
+First District Court of Appeals Rachel Nordby,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,449,1041,330,1820,72.31
+First District Court of Appeals Rachel Nordby,Yes,NON,VERNON CITY HALL,0,163,404,171,738,69.56
+First District Court of Appeals Rachel Nordby,Yes,NON,NEW HOPE-CAMPBELL PARK,0,65,115,68,248,55.98
+First District Court of Appeals Rachel Nordby,Yes,NON,ORANGE HILL FIRE STATION,0,158,354,258,770,70.71
+First District Court of Appeals Rachel Nordby,Yes,NON,ARMORY - CHIPLEY,0,147,449,145,741,66.58
+First District Court of Appeals Rachel Nordby,Yes,NON,WAUSAU TOWN HALL,0,102,207,184,493,66.80
+First District Court of Appeals Rachel Nordby,Yes,NON,EBRO CITY HALL,-,-,-,-,157,58.58
+First District Court of Appeals Rachel Nordby,Yes,NON,GREENHEAD,0,302,516,353,1171,75.50
+First District Court of Appeals Rachel Nordby,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,172,241,237,650,74.88
+First District Court of Appeals Rachel Nordby,No,NON,CARYVILLE TOWN HALL,0,32,40,40,112,36.48
+First District Court of Appeals Rachel Nordby,No,NON,FIVE POINT COMMUNITY CENTER,0,56,84,73,213,30.78
+First District Court of Appeals Rachel Nordby,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,118,27.96
+First District Court of Appeals Rachel Nordby,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,165,404,128,697,27.69
+First District Court of Appeals Rachel Nordby,No,NON,VERNON CITY HALL,0,89,172,62,323,30.44
+First District Court of Appeals Rachel Nordby,No,NON,NEW HOPE-CAMPBELL PARK,0,39,95,61,195,44.02
+First District Court of Appeals Rachel Nordby,No,NON,ORANGE HILL FIRE STATION,0,80,130,109,319,29.29
+First District Court of Appeals Rachel Nordby,No,NON,ARMORY - CHIPLEY,0,101,212,59,372,33.42
+First District Court of Appeals Rachel Nordby,No,NON,WAUSAU TOWN HALL,0,79,92,74,245,33.20
+First District Court of Appeals Rachel Nordby,No,NON,EBRO CITY HALL,-,-,-,-,111,41.42
+First District Court of Appeals Rachel Nordby,No,NON,GREENHEAD,0,98,145,137,380,24.50
+First District Court of Appeals Rachel Nordby,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,55,70,93,218,25.12
+First District Court of Appeals Tim Osterhaus,Yes,NON,CARYVILLE TOWN HALL,0,47,59,65,171,57.00
+First District Court of Appeals Tim Osterhaus,Yes,NON,FIVE POINT COMMUNITY CENTER,0,132,181,154,467,67.98
+First District Court of Appeals Tim Osterhaus,Yes,NON,HINSON CROSSROADS FIRE STATION,0,54,117,127,298,70.95
+First District Court of Appeals Tim Osterhaus,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,430,1022,326,1778,71.09
+First District Court of Appeals Tim Osterhaus,Yes,NON,VERNON CITY HALL,0,160,385,154,699,66.44
+First District Court of Appeals Tim Osterhaus,Yes,NON,NEW HOPE-CAMPBELL PARK,0,63,107,71,241,54.52
+First District Court of Appeals Tim Osterhaus,Yes,NON,ORANGE HILL FIRE STATION,0,150,341,245,736,67.90
+First District Court of Appeals Tim Osterhaus,Yes,NON,ARMORY - CHIPLEY,0,148,441,140,729,65.79
+First District Court of Appeals Tim Osterhaus,Yes,NON,WAUSAU TOWN HALL,0,102,198,183,483,65.80
+First District Court of Appeals Tim Osterhaus,Yes,NON,EBRO CITY HALL,-,-,-,-,145,54.72
+First District Court of Appeals Tim Osterhaus,Yes,NON,GREENHEAD,0,286,500,350,1136,73.39
+First District Court of Appeals Tim Osterhaus,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,162,240,231,633,73.69
+First District Court of Appeals Tim Osterhaus,No,NON,CARYVILLE TOWN HALL,0,38,51,40,129,43.00
+First District Court of Appeals Tim Osterhaus,No,NON,FIVE POINT COMMUNITY CENTER,0,61,83,76,220,32.02
+First District Court of Appeals Tim Osterhaus,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,122,29.05
+First District Court of Appeals Tim Osterhaus,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,180,410,133,723,28.91
+First District Court of Appeals Tim Osterhaus,No,NON,VERNON CITY HALL,0,89,187,77,353,33.56
+First District Court of Appeals Tim Osterhaus,No,NON,NEW HOPE-CAMPBELL PARK,0,42,100,59,201,45.48
+First District Court of Appeals Tim Osterhaus,No,NON,ORANGE HILL FIRE STATION,0,90,139,119,348,32.10
+First District Court of Appeals Tim Osterhaus,No,NON,ARMORY - CHIPLEY,0,100,215,64,379,34.21
+First District Court of Appeals Tim Osterhaus,No,NON,WAUSAU TOWN HALL,0,77,99,75,251,34.20
+First District Court of Appeals Tim Osterhaus,No,NON,EBRO CITY HALL,-,-,-,-,120,45.28
+First District Court of Appeals Tim Osterhaus,No,NON,GREENHEAD,0,115,160,137,412,26.61
+First District Court of Appeals Tim Osterhaus,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,61,69,96,226,26.31
+First District Court of Appeals Clay Roberts,Yes,NON,CARYVILLE TOWN HALL,0,43,71,62,176,58.28
+First District Court of Appeals Clay Roberts,Yes,NON,FIVE POINT COMMUNITY CENTER,0,137,180,161,478,69.28
+First District Court of Appeals Clay Roberts,Yes,NON,HINSON CROSSROADS FIRE STATION,0,55,117,131,303,71.63
+First District Court of Appeals Clay Roberts,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,459,1028,331,1818,72.69
+First District Court of Appeals Clay Roberts,Yes,NON,VERNON CITY HALL,0,164,383,159,706,67.05
+First District Court of Appeals Clay Roberts,Yes,NON,NEW HOPE-CAMPBELL PARK,0,65,114,79,258,58.50
+First District Court of Appeals Clay Roberts,Yes,NON,ORANGE HILL FIRE STATION,0,139,337,259,735,67.99
+First District Court of Appeals Clay Roberts,Yes,NON,ARMORY - CHIPLEY,0,152,417,147,716,65.09
+First District Court of Appeals Clay Roberts,Yes,NON,WAUSAU TOWN HALL,0,116,198,185,499,68.36
+First District Court of Appeals Clay Roberts,Yes,NON,EBRO CITY HALL,-,-,-,-,152,57.36
+First District Court of Appeals Clay Roberts,Yes,NON,GREENHEAD,0,270,500,347,1117,72.72
+First District Court of Appeals Clay Roberts,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,154,239,234,627,73.33
+First District Court of Appeals Clay Roberts,No,NON,CARYVILLE TOWN HALL,0,43,40,43,126,41.72
+First District Court of Appeals Clay Roberts,No,NON,FIVE POINT COMMUNITY CENTER,0,55,86,71,212,30.72
+First District Court of Appeals Clay Roberts,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,120,28.37
+First District Court of Appeals Clay Roberts,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,151,403,129,683,27.31
+First District Court of Appeals Clay Roberts,No,NON,VERNON CITY HALL,0,86,192,69,347,32.95
+First District Court of Appeals Clay Roberts,No,NON,NEW HOPE-CAMPBELL PARK,0,38,95,50,183,41.50
+First District Court of Appeals Clay Roberts,No,NON,ORANGE HILL FIRE STATION,0,99,141,106,346,32.01
+First District Court of Appeals Clay Roberts,No,NON,ARMORY - CHIPLEY,0,94,234,56,384,34.91
+First District Court of Appeals Clay Roberts,No,NON,WAUSAU TOWN HALL,0,63,99,69,231,31.64
+First District Court of Appeals Clay Roberts,No,NON,EBRO CITY HALL,-,-,-,-,113,42.64
+First District Court of Appeals Clay Roberts,No,NON,GREENHEAD,0,128,154,137,419,27.28
+First District Court of Appeals Clay Roberts,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,70,68,90,228,26.67
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,CARYVILLE TOWN HALL,0,47,65,64,176,58.86
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,FIVE POINT COMMUNITY CENTER,0,133,188,154,475,68.64
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,HINSON CROSSROADS FIRE STATION,0,56,122,128,306,72.17
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,434,1027,324,1785,71.34
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,VERNON CITY HALL,0,163,398,166,727,68.91
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,NEW HOPE-CAMPBELL PARK,0,66,112,78,256,57.79
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,ORANGE HILL FIRE STATION,0,148,344,257,749,69.48
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,ARMORY - CHIPLEY,0,147,433,142,722,65.34
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,WAUSAU TOWN HALL,0,104,205,184,493,66.80
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,EBRO CITY HALL,-,-,-,-,147,55.26
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,GREENHEAD,0,285,508,347,1140,73.64
+First Distict Court of Appeals Adam S. Tanenbaum,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,163,243,232,638,74.27
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,CARYVILLE TOWN HALL,0,39,45,39,123,41.14
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,FIVE POINT COMMUNITY CENTER,0,60,80,77,217,31.36
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,118,27.83
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,177,404,136,717,28.66
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,VERNON CITY HALL,0,87,174,67,328,31.09
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,NEW HOPE-CAMPBELL PARK,0,38,97,52,187,42.21
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,ORANGE HILL FIRE STATION,0,89,134,106,329,30.52
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,ARMORY - CHIPLEY,0,101,221,61,383,34.66
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,WAUSAU TOWN HALL,0,76,93,76,245,33.20
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,EBRO CITY HALL,-,-,-,-,119,44.74
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,GREENHEAD,0,115,151,142,408,26.36
+First Distict Court of Appeals Adam S. Tanenbaum,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,60,66,95,221,25.73
+No. 1 Constitutional Amendment,Yes,NON,CARYVILLE TOWN HALL,0,75,99,101,275,87.03
+No. 1 Constitutional Amendment,Yes,NON,FIVE POINT COMMUNITY CENTER,0,197,270,250,717,93.60
+No. 1 Constitutional Amendment,Yes,NON,HINSON CROSSROADS FIRE STATION,0,85,166,160,411,90.53
+No. 1 Constitutional Amendment,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,582,1402,446,2430,89.87
+No. 1 Constitutional Amendment,Yes,NON,VERNON CITY HALL,0,227,551,224,1002,87.89
+No. 1 Constitutional Amendment,Yes,NON,NEW HOPE-CAMPBELL PARK,0,93,161,108,362,76.69
+No. 1 Constitutional Amendment,Yes,NON,ORANGE HILL FIRE STATION,0,229,463,357,1049,90.43
+No. 1 Constitutional Amendment,Yes,NON,ARMORY - CHIPLEY,0,210,617,189,1016,86.76
+No. 1 Constitutional Amendment,Yes,NON,WAUSAU TOWN HALL,0,164,286,246,696,88.55
+No. 1 Constitutional Amendment,Yes,NON,EBRO CITY HALL,0,32,85,108,225,76.79
+No. 1 Constitutional Amendment,Yes,NON,GREENHEAD,0,398,667,503,1568,93.17
+No. 1 Constitutional Amendment,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,217,301,336,854,89.89
+No. 1 Constitutional Amendment,No,NON,CARYVILLE TOWN HALL,-,-,-,-,41,12.97
+No. 1 Constitutional Amendment,No,NON,FIVE POINT COMMUNITY CENTER,-,-,-,-,49,6.40
+No. 1 Constitutional Amendment,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,43,9.47
+No. 1 Constitutional Amendment,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,90,148,36,274,10.13
+No. 1 Constitutional Amendment,No,NON,VERNON CITY HALL,-,-,-,-,138,12.11
+No. 1 Constitutional Amendment,No,NON,NEW HOPE-CAMPBELL PARK,-,-,-,-,110,23.31
+No. 1 Constitutional Amendment,No,NON,ORANGE HILL FIRE STATION,-,-,-,-,111,9.57
+No. 1 Constitutional Amendment,No,NON,ARMORY - CHIPLEY,-,-,-,-,155,13.24
+No. 1 Constitutional Amendment,No,NON,WAUSAU TOWN HALL,-,-,-,-,90,11.45
+No. 1 Constitutional Amendment,No,NON,EBRO CITY HALL,-,-,-,-,68,23.21
+No. 1 Constitutional Amendment,No,NON,GREENHEAD,-,-,-,-,115,6.83
+No. 1 Constitutional Amendment,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,31,33,32,96,10.11
+No. 2 Constitutional Amendment,Yes,NON,CARYVILLE TOWN HALL,0,70,62,53,185,58.18
+No. 2 Constitutional Amendment,Yes,NON,FIVE POINT COMMUNITY CENTER,0,85,87,66,238,30.79
+No. 2 Constitutional Amendment,Yes,NON,HINSON CROSSROADS FIRE STATION,0,49,46,59,154,33.92
+No. 2 Constitutional Amendment,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,314,462,164,940,34.61
+No. 2 Constitutional Amendment,Yes,NON,VERNON CITY HALL,0,136,238,79,453,39.39
+No. 2 Constitutional Amendment,Yes,NON,NEW HOPE-CAMPBELL PARK,0,68,111,71,250,53.30
+No. 2 Constitutional Amendment,Yes,NON,ORANGE HILL FIRE STATION,0,124,158,110,392,33.50
+No. 2 Constitutional Amendment,Yes,NON,ARMORY - CHIPLEY,0,153,246,86,485,41.21
+No. 2 Constitutional Amendment,Yes,NON,WAUSAU TOWN HALL,0,99,94,91,284,35.95
+No. 2 Constitutional Amendment,Yes,NON,EBRO CITY HALL,0,33,66,68,167,55.48
+No. 2 Constitutional Amendment,Yes,NON,GREENHEAD,0,240,268,161,669,39.26
+No. 2 Constitutional Amendment,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,148,134,138,420,43.89
+No. 2 Constitutional Amendment,No,NON,CARYVILLE TOWN HALL,-,-,-,-,133,41.82
+No. 2 Constitutional Amendment,No,NON,FIVE POINT COMMUNITY CENTER,0,127,207,201,535,69.21
+No. 2 Constitutional Amendment,No,NON,HINSON CROSSROADS FIRE STATION,0,38,136,126,300,66.08
+No. 2 Constitutional Amendment,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,364,1093,319,1776,65.39
+No. 2 Constitutional Amendment,No,NON,VERNON CITY HALL,0,142,383,172,697,60.61
+No. 2 Constitutional Amendment,No,NON,NEW HOPE-CAMPBELL PARK,0,43,109,67,219,46.70
+No. 2 Constitutional Amendment,No,NON,ORANGE HILL FIRE STATION,0,129,362,287,778,66.50
+No. 2 Constitutional Amendment,No,NON,ARMORY - CHIPLEY,0,121,447,124,692,58.79
+No. 2 Constitutional Amendment,No,NON,WAUSAU TOWN HALL,0,98,223,185,506,64.05
+No. 2 Constitutional Amendment,No,NON,EBRO CITY HALL,-,-,-,-,134,44.52
+No. 2 Constitutional Amendment,No,NON,GREENHEAD,0,203,458,374,1035,60.74
+No. 2 Constitutional Amendment,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,101,202,234,537,56.11
+No. 3 Constitutional Amendment,Yes,NON,CARYVILLE TOWN HALL,0,52,69,68,189,61.56
+No. 3 Constitutional Amendment,Yes,NON,FIVE POINT COMMUNITY CENTER,0,122,143,139,404,53.44
+No. 3 Constitutional Amendment,Yes,NON,HINSON CROSSROADS FIRE STATION,0,55,81,99,235,53.05
+No. 3 Constitutional Amendment,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,374,713,271,1358,51.25
+No. 3 Constitutional Amendment,Yes,NON,VERNON CITY HALL,0,148,310,143,601,54.59
+No. 3 Constitutional Amendment,Yes,NON,NEW HOPE-CAMPBELL PARK,0,67,106,71,244,53.28
+No. 3 Constitutional Amendment,Yes,NON,ORANGE HILL FIRE STATION,0,142,232,206,580,51.56
+No. 3 Constitutional Amendment,Yes,NON,ARMORY - CHIPLEY,0,139,336,127,602,51.99
+No. 3 Constitutional Amendment,Yes,NON,WAUSAU TOWN HALL,0,98,152,161,411,53.59
+No. 3 Constitutional Amendment,Yes,NON,EBRO CITY HALL,-,-,-,-,140,50.00
+No. 3 Constitutional Amendment,Yes,NON,GREENHEAD,0,278,401,291,970,58.19
+No. 3 Constitutional Amendment,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,154,178,211,543,58.77
+No. 3 Constitutional Amendment,No,NON,CARYVILLE TOWN HALL,0,36,43,39,118,38.44
+No. 3 Constitutional Amendment,No,NON,FIVE POINT COMMUNITY CENTER,0,89,147,116,352,46.56
+No. 3 Constitutional Amendment,No,NON,HINSON CROSSROADS FIRE STATION,0,31,96,81,208,46.95
+No. 3 Constitutional Amendment,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,287,805,200,1292,48.75
+No. 3 Constitutional Amendment,No,NON,VERNON CITY HALL,0,113,289,98,500,45.41
+No. 3 Constitutional Amendment,No,NON,NEW HOPE-CAMPBELL PARK,0,43,109,62,214,46.72
+No. 3 Constitutional Amendment,No,NON,ORANGE HILL FIRE STATION,0,102,276,167,545,48.44
+No. 3 Constitutional Amendment,No,NON,ARMORY - CHIPLEY,0,127,344,85,556,48.01
+No. 3 Constitutional Amendment,No,NON,WAUSAU TOWN HALL,0,89,159,108,356,46.41
+No. 3 Constitutional Amendment,No,NON,EBRO CITY HALL,-,-,-,-,140,50.00
+No. 3 Constitutional Amendment,No,NON,GREENHEAD,0,149,313,235,697,41.81
+No. 3 Constitutional Amendment,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,85,153,143,381,41.23
+No. 4 Constitutional Amendment,Yes,NON,CARYVILLE TOWN HALL,0,52,68,65,185,61.06
+No. 4 Constitutional Amendment,Yes,NON,FIVE POINT COMMUNITY CENTER,0,109,176,142,427,57.39
+No. 4 Constitutional Amendment,Yes,NON,HINSON CROSSROADS FIRE STATION,0,47,121,101,269,61.42
+No. 4 Constitutional Amendment,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,372,959,301,1632,62.29
+No. 4 Constitutional Amendment,Yes,NON,VERNON CITY HALL,0,139,374,150,663,60.83
+No. 4 Constitutional Amendment,Yes,NON,NEW HOPE-CAMPBELL PARK,0,56,103,73,232,52.02
+No. 4 Constitutional Amendment,Yes,NON,ORANGE HILL FIRE STATION,0,136,330,211,677,60.28
+No. 4 Constitutional Amendment,Yes,NON,ARMORY - CHIPLEY,0,129,452,129,710,61.95
+No. 4 Constitutional Amendment,Yes,NON,WAUSAU TOWN HALL,0,88,176,168,432,56.62
+No. 4 Constitutional Amendment,Yes,NON,EBRO CITY HALL,-,-,-,-,150,53.00
+No. 4 Constitutional Amendment,Yes,NON,GREENHEAD,0,190,411,310,911,55.38
+No. 4 Constitutional Amendment,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,109,196,211,516,56.89
+No. 4 Constitutional Amendment,No,NON,CARYVILLE TOWN HALL,0,36,42,40,118,38.94
+No. 4 Constitutional Amendment,No,NON,FIVE POINT COMMUNITY CENTER,0,94,111,112,317,42.61
+No. 4 Constitutional Amendment,No,NON,HINSON CROSSROADS FIRE STATION,0,40,53,76,169,38.58
+No. 4 Constitutional Amendment,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,280,543,165,988,37.71
+No. 4 Constitutional Amendment,No,NON,VERNON CITY HALL,0,119,222,86,427,39.17
+No. 4 Constitutional Amendment,No,NON,NEW HOPE-CAMPBELL PARK,0,52,107,55,214,47.98
+No. 4 Constitutional Amendment,No,NON,ORANGE HILL FIRE STATION,0,108,178,160,446,39.72
+No. 4 Constitutional Amendment,No,NON,ARMORY - CHIPLEY,0,137,220,79,436,38.05
+No. 4 Constitutional Amendment,No,NON,WAUSAU TOWN HALL,0,99,134,98,331,43.38
+No. 4 Constitutional Amendment,No,NON,EBRO CITY HALL,-,-,-,-,133,47.00
+No. 4 Constitutional Amendment,No,NON,GREENHEAD,0,231,296,207,734,44.62
+No. 4 Constitutional Amendment,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,124,132,135,391,43.11
+No. 5 Constitutional Amendment,Yes,NON,CARYVILLE TOWN HALL,0,66,82,78,226,73.38
+No. 5 Constitutional Amendment,Yes,NON,FIVE POINT COMMUNITY CENTER,0,159,208,177,544,74.22
+No. 5 Constitutional Amendment,Yes,NON,HINSON CROSSROADS FIRE STATION,0,54,114,125,293,67.98
+No. 5 Constitutional Amendment,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,493,1096,341,1930,74.66
+No. 5 Constitutional Amendment,Yes,NON,VERNON CITY HALL,0,183,411,179,773,71.64
+No. 5 Constitutional Amendment,Yes,NON,NEW HOPE-CAMPBELL PARK,0,82,131,81,294,66.97
+No. 5 Constitutional Amendment,Yes,NON,ORANGE HILL FIRE STATION,0,177,364,249,790,71.04
+No. 5 Constitutional Amendment,Yes,NON,ARMORY - CHIPLEY,0,193,503,137,833,73.01
+No. 5 Constitutional Amendment,Yes,NON,WAUSAU TOWN HALL,0,136,221,192,549,73.01
+No. 5 Constitutional Amendment,Yes,NON,EBRO CITY HALL,0,32,62,79,173,63.60
+No. 5 Constitutional Amendment,Yes,NON,GREENHEAD,0,325,518,390,1233,75.74
+No. 5 Constitutional Amendment,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,173,246,248,667,73.86
+No. 5 Constitutional Amendment,No,NON,CARYVILLE TOWN HALL,-,-,-,-,82,26.62
+No. 5 Constitutional Amendment,No,NON,FIVE POINT COMMUNITY CENTER,0,46,73,70,189,25.78
+No. 5 Constitutional Amendment,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,138,32.02
+No. 5 Constitutional Amendment,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,156,383,116,655,25.34
+No. 5 Constitutional Amendment,No,NON,VERNON CITY HALL,0,74,173,59,306,28.36
+No. 5 Constitutional Amendment,No,NON,NEW HOPE-CAMPBELL PARK,-,-,-,-,145,33.03
+No. 5 Constitutional Amendment,No,NON,ORANGE HILL FIRE STATION,0,66,139,117,322,28.96
+No. 5 Constitutional Amendment,No,NON,ARMORY - CHIPLEY,0,75,164,69,308,26.99
+No. 5 Constitutional Amendment,No,NON,WAUSAU TOWN HALL,0,50,86,67,203,26.99
+No. 5 Constitutional Amendment,No,NON,EBRO CITY HALL,-,-,-,-,99,36.40
+No. 5 Constitutional Amendment,No,NON,GREENHEAD,0,96,173,126,395,24.26
+No. 5 Constitutional Amendment,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,61,77,98,236,26.14
+No. 6 Constitutional Amendment,Yes,NON,CARYVILLE TOWN HALL,0,78,97,95,270,86.82
+No. 6 Constitutional Amendment,Yes,NON,FIVE POINT COMMUNITY CENTER,0,194,259,239,692,91.05
+No. 6 Constitutional Amendment,Yes,NON,HINSON CROSSROADS FIRE STATION,0,79,162,158,399,90.48
+No. 6 Constitutional Amendment,Yes,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,625,1366,432,2423,90.78
+No. 6 Constitutional Amendment,Yes,NON,VERNON CITY HALL,0,230,524,218,972,87.57
+No. 6 Constitutional Amendment,Yes,NON,NEW HOPE-CAMPBELL PARK,0,104,161,109,374,81.48
+No. 6 Constitutional Amendment,Yes,NON,ORANGE HILL FIRE STATION,0,231,454,341,1026,90.40
+No. 6 Constitutional Amendment,Yes,NON,ARMORY - CHIPLEY,0,245,613,192,1050,90.28
+No. 6 Constitutional Amendment,Yes,NON,WAUSAU TOWN HALL,0,159,278,243,680,88.20
+No. 6 Constitutional Amendment,Yes,NON,EBRO CITY HALL,0,36,80,101,217,76.95
+No. 6 Constitutional Amendment,Yes,NON,GREENHEAD,0,397,662,499,1558,93.13
+No. 6 Constitutional Amendment,Yes,NON,"SUNNY HILLS COMMUNITY CENTER  ",0,228,306,317,851,91.80
+No. 6 Constitutional Amendment,No,NON,CARYVILLE TOWN HALL,-,-,-,-,41,13.18
+No. 6 Constitutional Amendment,No,NON,FIVE POINT COMMUNITY CENTER,-,-,-,-,68,8.95
+No. 6 Constitutional Amendment,No,NON,HINSON CROSSROADS FIRE STATION,-,-,-,-,42,9.52
+No. 6 Constitutional Amendment,No,NON,"AGRICULTURE CENTER - CHIPLEY  ",0,45,163,38,246,9.22
+No. 6 Constitutional Amendment,No,NON,VERNON CITY HALL,-,-,-,-,138,12.43
+No. 6 Constitutional Amendment,No,NON,NEW HOPE-CAMPBELL PARK,-,-,-,-,85,18.52
+No. 6 Constitutional Amendment,No,NON,ORANGE HILL FIRE STATION,-,-,-,-,109,9.60
+No. 6 Constitutional Amendment,No,NON,ARMORY - CHIPLEY,-,-,-,-,113,9.72
+No. 6 Constitutional Amendment,No,NON,WAUSAU TOWN HALL,-,-,-,-,91,11.80
+No. 6 Constitutional Amendment,No,NON,EBRO CITY HALL,-,-,-,-,65,23.05
+No. 6 Constitutional Amendment,No,NON,GREENHEAD,0,33,52,30,115,6.87
+No. 6 Constitutional Amendment,No,NON,"SUNNY HILLS COMMUNITY CENTER  ",-,-,-,-,76,8.20
