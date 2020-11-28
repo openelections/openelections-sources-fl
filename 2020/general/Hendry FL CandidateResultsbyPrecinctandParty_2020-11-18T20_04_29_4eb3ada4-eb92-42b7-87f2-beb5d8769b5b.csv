@@ -1,0 +1,399 @@
+Contest,Candidate Issue,Party,Precinct Name,Provisional Votes,Mail Votes,Early Votes,Election Day Votes,Total Votes,% of Total Votes
+President and Vice President,Trump and Pence,REP,001,0,111,393,94,598,25.84
+President and Vice President,Trump and Pence,REP,002,0,402,1027,330,1759,67.21
+President and Vice President,Trump and Pence,REP,003,0,441,931,311,1683,71.86
+President and Vice President,Trump and Pence,REP,004,-,-,-,-,62,42.76
+President and Vice President,Trump and Pence,REP,005,-,-,-,-,245,76.09
+President and Vice President,Trump and Pence,REP,006,0,170,452,170,792,66.55
+President and Vice President,Trump and Pence,REP,007,0,262,797,238,1297,78.46
+President and Vice President,Trump and Pence,REP,008,0,85,130,157,372,75.46
+President and Vice President,Trump and Pence,REP,009,0,106,347,151,604,56.55
+President and Vice President,Trump and Pence,REP,010,0,97,213,184,494,60.84
+President and Vice President,Biden and Harris,DEM,001,0,380,1019,290,1689,72.99
+President and Vice President,Biden and Harris,DEM,002,0,312,372,151,835,31.91
+President and Vice President,Biden and Harris,DEM,003,0,286,257,97,640,27.33
+President and Vice President,Biden and Harris,DEM,004,-,-,-,-,81,55.86
+President and Vice President,Biden and Harris,DEM,005,-,-,-,-,75,23.29
+President and Vice President,Biden and Harris,DEM,006,0,122,176,90,388,32.61
+President and Vice President,Biden and Harris,DEM,007,0,111,156,82,349,21.11
+President and Vice President,Biden and Harris,DEM,008,-,-,-,-,111,22.52
+President and Vice President,Biden and Harris,DEM,009,0,133,205,114,452,42.32
+President and Vice President,Biden and Harris,DEM,010,0,115,104,90,309,38.05
+President and Vice President,Jorgensen and Cohen,LPF,001,-,-,-,-,7,0.30
+President and Vice President,Jorgensen and Cohen,LPF,002,-,-,-,-,13,0.50
+President and Vice President,Jorgensen and Cohen,LPF,003,-,-,-,-,12,0.51
+President and Vice President,Jorgensen and Cohen,LPF,004,0,0,0,0,0,0.00
+President and Vice President,Jorgensen and Cohen,LPF,005,-,-,-,-,2,0.62
+President and Vice President,Jorgensen and Cohen,LPF,006,-,-,-,-,8,0.67
+President and Vice President,Jorgensen and Cohen,LPF,007,-,-,-,-,7,0.42
+President and Vice President,Jorgensen and Cohen,LPF,008,-,-,-,-,7,1.42
+President and Vice President,Jorgensen and Cohen,LPF,009,-,-,-,-,6,0.56
+President and Vice President,Jorgensen and Cohen,LPF,010,-,-,-,-,3,0.37
+President and Vice President,De La Fuente and Richardson,REF,001,-,-,-,-,5,0.22
+President and Vice President,De La Fuente and Richardson,REF,002,-,-,-,-,2,0.08
+President and Vice President,De La Fuente and Richardson,REF,003,-,-,-,-,2,0.09
+President and Vice President,De La Fuente and Richardson,REF,004,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,005,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,006,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,007,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,008,0,0,0,0,0,0.00
+President and Vice President,De La Fuente and Richardson,REF,009,-,-,-,-,1,0.09
+President and Vice President,De La Fuente and Richardson,REF,010,-,-,-,-,1,0.12
+President and Vice President,La Riva and Freeman,PSL,001,-,-,-,-,4,0.17
+President and Vice President,La Riva and Freeman,PSL,002,-,-,-,-,2,0.08
+President and Vice President,La Riva and Freeman,PSL,003,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,004,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,005,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,006,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,007,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,008,0,0,0,0,0,0.00
+President and Vice President,La Riva and Freeman,PSL,009,-,-,-,-,1,0.09
+President and Vice President,La Riva and Freeman,PSL,010,-,-,-,-,1,0.12
+President and Vice President,Hawkins and Walker,GRE,001,-,-,-,-,1,0.04
+President and Vice President,Hawkins and Walker,GRE,002,-,-,-,-,3,0.11
+President and Vice President,Hawkins and Walker,GRE,003,-,-,-,-,2,0.09
+President and Vice President,Hawkins and Walker,GRE,004,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,005,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,006,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,007,0,0,0,0,0,0.00
+President and Vice President,Hawkins and Walker,GRE,008,-,-,-,-,3,0.61
+President and Vice President,Hawkins and Walker,GRE,009,-,-,-,-,2,0.19
+President and Vice President,Hawkins and Walker,GRE,010,-,-,-,-,2,0.25
+President and Vice President," Blankenship and Mohr",CPF,001,-,-,-,-,2,0.09
+President and Vice President," Blankenship and Mohr",CPF,002,-,-,-,-,2,0.08
+President and Vice President," Blankenship and Mohr",CPF,003,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,004,-,-,-,-,1,0.69
+President and Vice President," Blankenship and Mohr",CPF,005,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,006,-,-,-,-,1,0.08
+President and Vice President," Blankenship and Mohr",CPF,007,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,008,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,009,0,0,0,0,0,0.00
+President and Vice President," Blankenship and Mohr",CPF,010,-,-,-,-,1,0.12
+President and Vice President,WRITE-IN,NON,001,-,-,-,-,8,0.35
+President and Vice President,WRITE-IN,NON,002,-,-,-,-,1,0.04
+President and Vice President,WRITE-IN,NON,003,-,-,-,-,3,0.13
+President and Vice President,WRITE-IN,NON,004,-,-,-,-,1,0.69
+President and Vice President,WRITE-IN,NON,005,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,006,-,-,-,-,1,0.08
+President and Vice President,WRITE-IN,NON,007,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,008,0,0,0,0,0,0.00
+President and Vice President,WRITE-IN,NON,009,-,-,-,-,2,0.19
+President and Vice President,WRITE-IN,NON,010,-,-,-,-,1,0.12
+State House Representative District 80,Lauren Uhlich Melo,REP,001,0,106,353,85,544,24.52
+State House Representative District 80,Lauren Uhlich Melo,REP,002,0,378,987,308,1673,66.34
+State House Representative District 80,Lauren Uhlich Melo,REP,003,0,425,895,279,1599,70.91
+State House Representative District 80,Lauren Uhlich Melo,REP,004,-,-,-,-,61,42.36
+State House Representative District 80,Lauren Uhlich Melo,REP,005,-,-,-,-,229,74.35
+State House Representative District 80,Lauren Uhlich Melo,REP,006,0,148,426,157,731,65.80
+State House Representative District 80,Lauren Uhlich Melo,REP,007,0,248,769,228,1245,78.85
+State House Representative District 80,Lauren Uhlich Melo,REP,008,0,82,123,146,351,74.52
+State House Representative District 80,Lauren Uhlich Melo,REP,009,0,100,328,138,566,55.22
+State House Representative District 80,Lauren Uhlich Melo,REP,010,0,90,190,154,434,57.94
+State House Representative District 80,Laura Novosad,DEM,001,0,366,1013,296,1675,75.48
+State House Representative District 80,Laura Novosad,DEM,002,0,318,376,155,849,33.66
+State House Representative District 80,Laura Novosad,DEM,003,0,280,261,115,656,29.09
+State House Representative District 80,Laura Novosad,DEM,004,-,-,-,-,83,57.64
+State House Representative District 80,Laura Novosad,DEM,005,-,-,-,-,79,25.65
+State House Representative District 80,Laura Novosad,DEM,006,0,127,167,86,380,34.20
+State House Representative District 80,Laura Novosad,DEM,007,0,104,150,80,334,21.15
+State House Representative District 80,Laura Novosad,DEM,008,0,48,42,30,120,25.48
+State House Representative District 80,Laura Novosad,DEM,009,0,129,211,119,459,44.78
+State House Representative District 80,Laura Novosad,DEM,010,0,121,102,92,315,42.06
+Sheriff,Steve Whidden,REP,001,0,112,307,70,489,21.44
+Sheriff,Steve Whidden,REP,002,0,462,1020,314,1796,69.34
+Sheriff,Steve Whidden,REP,003,0,520,929,291,1740,75.00
+Sheriff,Steve Whidden,REP,004,-,-,-,-,50,34.97
+Sheriff,Steve Whidden,REP,005,-,-,-,-,246,76.88
+Sheriff,Steve Whidden,REP,006,0,182,378,130,690,59.28
+Sheriff,Steve Whidden,REP,007,0,266,735,200,1201,73.28
+Sheriff,Steve Whidden,REP,008,0,83,124,138,345,70.70
+Sheriff,Steve Whidden,REP,009,0,129,323,151,603,57.32
+Sheriff,Steve Whidden,REP,010,0,95,157,115,367,46.87
+Sheriff,Johnny Jackson,DEM,001,0,346,986,267,1599,70.10
+Sheriff,Johnny Jackson,DEM,002,0,160,175,54,389,15.02
+Sheriff,Johnny Jackson,DEM,003,0,159,145,44,348,15.00
+Sheriff,Johnny Jackson,DEM,004,-,-,-,-,61,42.66
+Sheriff,Johnny Jackson,DEM,005,-,-,-,-,40,12.50
+Sheriff,Johnny Jackson,DEM,006,0,85,151,66,302,25.95
+Sheriff,Johnny Jackson,DEM,007,0,76,137,71,284,17.33
+Sheriff,Johnny Jackson,DEM,008,-,-,-,-,80,16.39
+Sheriff,Johnny Jackson,DEM,009,0,89,132,62,283,26.90
+Sheriff,Johnny Jackson,DEM,010,0,78,74,37,189,24.14
+Sheriff,Ricky Garcia,NPA,001,0,31,110,52,193,8.46
+Sheriff,Ricky Garcia,NPA,002,0,87,199,119,405,15.64
+Sheriff,Ricky Garcia,NPA,003,0,49,112,71,232,10.00
+Sheriff,Ricky Garcia,NPA,004,-,-,-,-,32,22.38
+Sheriff,Ricky Garcia,NPA,005,-,-,-,-,34,10.63
+Sheriff,Ricky Garcia,NPA,006,-,-,-,-,172,14.78
+Sheriff,Ricky Garcia,NPA,007,-,-,-,-,154,9.40
+Sheriff,Ricky Garcia,NPA,008,-,-,-,-,63,12.91
+Sheriff,Ricky Garcia,NPA,009,-,-,-,-,166,15.78
+Sheriff,Ricky Garcia,NPA,010,0,42,73,112,227,28.99
+District Superintendent of Schools,Michael Swindle,REP,001,0,139,442,107,688,30.44
+District Superintendent of Schools,Michael Swindle,REP,002,0,415,1048,335,1798,70.96
+District Superintendent of Schools,Michael Swindle,REP,003,0,467,936,290,1693,74.85
+District Superintendent of Schools,Michael Swindle,REP,004,-,-,-,-,66,46.48
+District Superintendent of Schools,Michael Swindle,REP,005,-,-,-,-,242,77.32
+District Superintendent of Schools,Michael Swindle,REP,006,0,177,473,180,830,72.24
+District Superintendent of Schools,Michael Swindle,REP,007,0,299,850,276,1425,87.00
+District Superintendent of Schools,Michael Swindle,REP,008,0,85,127,155,367,77.43
+District Superintendent of Schools,Michael Swindle,REP,009,0,114,356,154,624,60.23
+District Superintendent of Schools,Michael Swindle,REP,010,0,127,224,182,533,70.78
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,001,0,347,946,279,1572,69.56
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,002,0,279,325,132,736,29.04
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,003,0,239,229,101,569,25.15
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,004,-,-,-,-,76,53.52
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,005,-,-,-,-,71,22.68
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,006,0,108,139,72,319,27.76
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,007,0,70,97,46,213,13.00
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,008,-,-,-,-,107,22.57
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,009,0,119,190,103,412,39.77
+District Superintendent of Schools,Gwendolyn Patrick-Griffiths,DEM,010,0,87,69,64,220,29.22
+"Board of County Commissioners, District 4",Ramon Iglesias,REP,007,0,285,818,264,1367,85.01
+"Board of County Commissioners, District 4",Ramon Iglesias,REP,009,0,111,354,148,613,59.06
+"Board of County Commissioners, District 4",Ramon Iglesias,REP,010,0,94,196,172,462,59.92
+"Board of County Commissioners, District 4",Cynthia Santana De Las Salas,DEM,007,0,74,112,55,241,14.99
+"Board of County Commissioners, District 4",Cynthia Santana De Las Salas,DEM,009,0,124,189,112,425,40.94
+"Board of County Commissioners, District 4",Cynthia Santana De Las Salas,DEM,010,0,119,98,92,309,40.08
+Justice of the Supreme Court,Yes,NON,001,0,260,857,240,1357,64.43
+Justice of the Supreme Court,Yes,NON,002,0,464,997,351,1812,76.65
+Justice of the Supreme Court,Yes,NON,003,0,488,848,285,1621,77.12
+Justice of the Supreme Court,Yes,NON,004,-,-,-,-,81,61.36
+Justice of the Supreme Court,Yes,NON,005,-,-,-,-,213,75.00
+Justice of the Supreme Court,Yes,NON,006,0,189,440,192,821,76.94
+Justice of the Supreme Court,Yes,NON,007,0,217,644,218,1079,75.19
+Justice of the Supreme Court,Yes,NON,008,0,87,119,127,333,74.83
+Justice of the Supreme Court,Yes,NON,009,0,151,386,194,731,74.29
+Justice of the Supreme Court,Yes,NON,010,0,152,219,187,558,77.93
+Justice of the Supreme Court,No,NON,001,0,172,443,134,749,35.57
+Justice of the Supreme Court,No,NON,002,0,193,272,87,552,23.35
+Justice of the Supreme Court,No,NON,003,0,173,230,78,481,22.88
+Justice of the Supreme Court,No,NON,004,-,-,-,-,51,38.64
+Justice of the Supreme Court,No,NON,005,-,-,-,-,71,25.00
+Justice of the Supreme Court,No,NON,006,0,74,128,44,246,23.06
+Justice of the Supreme Court,No,NON,007,0,97,187,72,356,24.81
+Justice of the Supreme Court,No,NON,008,0,31,40,41,112,25.17
+Justice of the Supreme Court,No,NON,009,0,76,121,56,253,25.71
+Justice of the Supreme Court,No,NON,010,0,53,56,49,158,22.07
+2nd District Court of Appeal,Yes,NON,001,0,272,845,229,1346,63.91
+2nd District Court of Appeal,Yes,NON,002,0,474,996,337,1807,76.15
+2nd District Court of Appeal,Yes,NON,003,0,515,845,281,1641,78.18
+2nd District Court of Appeal,Yes,NON,004,-,-,-,-,77,57.46
+2nd District Court of Appeal,Yes,NON,005,-,-,-,-,220,78.85
+2nd District Court of Appeal,Yes,NON,006,0,193,433,189,815,76.74
+2nd District Court of Appeal,Yes,NON,007,0,231,654,212,1097,76.34
+2nd District Court of Appeal,Yes,NON,008,0,89,117,129,335,75.62
+2nd District Court of Appeal,Yes,NON,009,0,160,390,187,737,75.20
+2nd District Court of Appeal,Yes,NON,010,0,157,205,187,549,77.00
+2nd District Court of Appeal,No,NON,001,0,164,452,144,760,36.09
+2nd District Court of Appeal,No,NON,002,0,182,280,104,566,23.85
+2nd District Court of Appeal,No,NON,003,0,141,235,82,458,21.82
+2nd District Court of Appeal,No,NON,004,-,-,-,-,57,42.54
+2nd District Court of Appeal,No,NON,005,-,-,-,-,59,21.15
+2nd District Court of Appeal,No,NON,006,0,67,133,47,247,23.26
+2nd District Court of Appeal,No,NON,007,0,85,177,78,340,23.66
+2nd District Court of Appeal,No,NON,008,-,-,-,-,108,24.38
+2nd District Court of Appeal,No,NON,009,0,65,115,63,243,24.80
+2nd District Court of Appeal,No,NON,010,0,48,67,49,164,23.00
+2nd District Court of Appeal,Yes,NON,001,0,270,795,232,1297,61.64
+2nd District Court of Appeal,Yes,NON,002,0,483,951,328,1762,74.44
+2nd District Court of Appeal,Yes,NON,003,0,494,816,262,1572,75.58
+2nd District Court of Appeal,Yes,NON,004,-,-,-,-,77,58.78
+2nd District Court of Appeal,Yes,NON,005,-,-,-,-,205,73.74
+2nd District Court of Appeal,Yes,NON,006,0,199,407,166,772,73.24
+2nd District Court of Appeal,Yes,NON,007,0,226,575,202,1003,70.19
+2nd District Court of Appeal,Yes,NON,008,0,85,116,118,319,72.50
+2nd District Court of Appeal,Yes,NON,009,0,158,378,173,709,72.27
+2nd District Court of Appeal,Yes,NON,010,0,149,201,174,524,74.12
+2nd District Court of Appeal,No,NON,001,0,164,499,144,807,38.36
+2nd District Court of Appeal,No,NON,002,0,172,321,112,605,25.56
+2nd District Court of Appeal,No,NON,003,0,153,259,96,508,24.42
+2nd District Court of Appeal,No,NON,004,-,-,-,-,54,41.22
+2nd District Court of Appeal,No,NON,005,-,-,-,-,73,26.26
+2nd District Court of Appeal,No,NON,006,0,63,155,64,282,26.76
+2nd District Court of Appeal,No,NON,007,0,89,250,87,426,29.81
+2nd District Court of Appeal,No,NON,008,0,32,39,50,121,27.50
+2nd District Court of Appeal,No,NON,009,0,67,129,76,272,27.73
+2nd District Court of Appeal,No,NON,010,0,53,69,61,183,25.88
+2nd District Court of Appeal,Yes,NON,001,0,272,806,225,1303,61.78
+2nd District Court of Appeal,Yes,NON,002,0,480,999,333,1812,76.55
+2nd District Court of Appeal,Yes,NON,003,0,501,840,281,1622,77.42
+2nd District Court of Appeal,Yes,NON,004,-,-,-,-,77,58.78
+2nd District Court of Appeal,Yes,NON,005,-,-,-,-,218,77.86
+2nd District Court of Appeal,Yes,NON,006,0,191,429,187,807,75.92
+2nd District Court of Appeal,Yes,NON,007,0,230,628,208,1066,74.44
+2nd District Court of Appeal,Yes,NON,008,0,86,115,122,323,73.24
+2nd District Court of Appeal,Yes,NON,009,0,162,377,183,722,73.90
+2nd District Court of Appeal,Yes,NON,010,0,149,195,174,518,73.27
+2nd District Court of Appeal,No,NON,001,0,164,490,152,806,38.22
+2nd District Court of Appeal,No,NON,002,0,173,274,108,555,23.45
+2nd District Court of Appeal,No,NON,003,0,147,242,84,473,22.58
+2nd District Court of Appeal,No,NON,004,-,-,-,-,54,41.22
+2nd District Court of Appeal,No,NON,005,-,-,-,-,62,22.14
+2nd District Court of Appeal,No,NON,006,0,71,139,46,256,24.08
+2nd District Court of Appeal,No,NON,007,0,85,199,82,366,25.56
+2nd District Court of Appeal,No,NON,008,0,31,41,46,118,26.76
+2nd District Court of Appeal,No,NON,009,0,63,127,65,255,26.10
+2nd District Court of Appeal,No,NON,010,0,55,75,59,189,26.73
+2nd District Court of Appeal,Yes,NON,001,0,296,877,247,1420,68.77
+2nd District Court of Appeal,Yes,NON,002,0,505,1003,341,1849,79.19
+2nd District Court of Appeal,Yes,NON,003,0,512,835,277,1624,79.22
+2nd District Court of Appeal,Yes,NON,004,-,-,-,-,90,70.31
+2nd District Court of Appeal,Yes,NON,005,-,-,-,-,217,79.20
+2nd District Court of Appeal,Yes,NON,006,0,202,431,185,818,78.35
+2nd District Court of Appeal,Yes,NON,007,0,230,630,202,1062,75.53
+2nd District Court of Appeal,Yes,NON,008,0,89,121,122,332,76.85
+2nd District Court of Appeal,Yes,NON,009,0,164,381,185,730,76.92
+2nd District Court of Appeal,Yes,NON,010,0,157,204,176,537,76.82
+2nd District Court of Appeal,No,NON,001,0,141,390,114,645,31.23
+2nd District Court of Appeal,No,NON,002,0,142,255,89,486,20.81
+2nd District Court of Appeal,No,NON,003,0,125,225,76,426,20.78
+2nd District Court of Appeal,No,NON,004,-,-,-,-,38,29.69
+2nd District Court of Appeal,No,NON,005,-,-,-,-,57,20.80
+2nd District Court of Appeal,No,NON,006,0,54,128,44,226,21.65
+2nd District Court of Appeal,No,NON,007,0,82,183,79,344,24.47
+2nd District Court of Appeal,No,NON,008,-,-,-,-,100,23.15
+2nd District Court of Appeal,No,NON,009,0,50,111,58,219,23.08
+2nd District Court of Appeal,No,NON,010,0,45,63,54,162,23.18
+LeHigh Acres Municipal Seat #1,Julie Hollingsworth,NON,003,-,-,-,-,41,41.84
+LeHigh Acres Municipal Seat #1,"Michael J. ""Mike"" Welch",NON,003,-,-,-,-,46,46.94
+LeHigh Acres Municipal Seat #1,Tyler Woodby,NON,003,-,-,-,-,11,11.22
+LeHigh Acres Municipal Seat #3,David Deetscreek,NON,003,-,-,-,-,35,37.23
+LeHigh Acres Municipal Seat #3,Ren Marshall,NON,003,-,-,-,-,19,20.21
+LeHigh Acres Municipal Seat #3,Kenneth K. Thompson,NON,003,-,-,-,-,40,42.55
+Central County Water Control District Seat #2,Luis E. Napoles,NON,006,-,-,-,-,54,50.94
+Central County Water Control District Seat #2,Luis E. Napoles,NON,010,0,75,124,144,343,47.77
+Central County Water Control District Seat #2,Daniel E. Santiago Jr,NON,006,-,-,-,-,52,49.06
+Central County Water Control District Seat #2,Daniel E. Santiago Jr,NON,010,0,134,142,99,375,52.23
+Central County Water Control District Seat #4,"Rolando ""Roly"" Gonzalez",NON,006,-,-,-,-,61,58.65
+Central County Water Control District Seat #4,"Rolando ""Roly"" Gonzalez",NON,010,0,108,172,194,474,62.86
+Central County Water Control District Seat #4,Denise Barreiro Miller,NON,006,-,-,-,-,43,41.35
+Central County Water Control District Seat #4,Denise Barreiro Miller,NON,010,0,102,107,71,280,37.14
+Clewiston City Commission,"M. ""Mali"" Soto Gardner",NON,001,0,141,248,67,456,27.01
+Clewiston City Commission,"M. ""Mali"" Soto Gardner",NON,007,0,170,387,140,697,25.46
+Clewiston City Commission,"Donald W. ""Donnie"" Hughes",NON,001,0,73,167,36,276,16.35
+Clewiston City Commission,"Donald W. ""Donnie"" Hughes",NON,007,0,125,304,90,519,18.96
+Clewiston City Commission,"James L. ""Jimmy"" Pittman",NON,001,0,140,354,96,590,34.95
+Clewiston City Commission,"James L. ""Jimmy"" Pittman",NON,007,0,209,507,181,897,32.76
+Clewiston City Commission,Greg Thompson,NON,001,0,92,215,59,366,21.68
+Clewiston City Commission,Greg Thompson,NON,007,0,137,358,130,625,22.83
+Amendment 1,Yes,NON,001,0,377,1046,318,1741,80.68
+Amendment 1,Yes,NON,002,0,583,1190,417,2190,86.53
+Amendment 1,Yes,NON,003,0,626,1027,358,2011,89.18
+Amendment 1,Yes,NON,004,-,-,-,-,116,82.27
+Amendment 1,Yes,NON,005,-,-,-,-,262,85.06
+Amendment 1,Yes,NON,006,0,255,527,216,998,89.27
+Amendment 1,Yes,NON,007,0,313,843,283,1439,90.39
+Amendment 1,Yes,NON,008,0,114,144,155,413,88.06
+Amendment 1,Yes,NON,009,0,189,464,230,883,85.89
+Amendment 1,Yes,NON,010,0,197,242,204,643,87.96
+Amendment 1,No,NON,001,0,87,272,58,417,19.32
+Amendment 1,No,NON,002,0,115,173,53,341,13.47
+Amendment 1,No,NON,003,0,88,122,34,244,10.82
+Amendment 1,No,NON,004,-,-,-,-,25,17.73
+Amendment 1,No,NON,005,-,-,-,-,46,14.94
+Amendment 1,No,NON,006,-,-,-,-,120,10.73
+Amendment 1,No,NON,007,0,44,76,33,153,9.61
+Amendment 1,No,NON,008,-,-,-,-,56,11.94
+Amendment 1,No,NON,009,-,-,-,-,145,14.11
+Amendment 1,No,NON,010,-,-,-,-,88,12.04
+Amendment 2,Yes,NON,001,0,360,1012,294,1666,76.49
+Amendment 2,Yes,NON,002,0,440,613,224,1277,50.16
+Amendment 2,Yes,NON,003,0,379,450,182,1011,44.42
+Amendment 2,Yes,NON,004,-,-,-,-,93,66.43
+Amendment 2,Yes,NON,005,-,-,-,-,122,39.74
+Amendment 2,Yes,NON,006,0,178,298,125,601,53.47
+Amendment 2,Yes,NON,007,0,160,306,106,572,35.77
+Amendment 2,Yes,NON,008,0,69,72,71,212,45.30
+Amendment 2,Yes,NON,009,0,158,270,143,571,55.12
+Amendment 2,Yes,NON,010,0,147,163,146,456,62.55
+Amendment 2,No,NON,001,0,115,318,79,512,23.51
+Amendment 2,No,NON,002,0,266,757,246,1269,49.84
+Amendment 2,No,NON,003,0,340,709,216,1265,55.58
+Amendment 2,No,NON,004,-,-,-,-,47,33.57
+Amendment 2,No,NON,005,-,-,-,-,185,60.26
+Amendment 2,No,NON,006,0,105,301,117,523,46.53
+Amendment 2,No,NON,007,0,197,618,212,1027,64.23
+Amendment 2,No,NON,008,0,59,95,102,256,54.70
+Amendment 2,No,NON,009,0,76,269,120,465,44.88
+Amendment 2,No,NON,010,0,67,119,87,273,37.45
+Amendment 3,Yes,NON,001,0,293,905,286,1484,69.25
+Amendment 3,Yes,NON,002,0,435,751,300,1486,59.68
+Amendment 3,Yes,NON,003,0,380,581,257,1218,55.06
+Amendment 3,Yes,NON,004,-,-,-,-,103,74.10
+Amendment 3,Yes,NON,005,-,-,-,-,145,47.39
+Amendment 3,Yes,NON,006,0,176,354,157,687,62.85
+Amendment 3,Yes,NON,007,0,185,415,162,762,48.69
+Amendment 3,Yes,NON,008,0,84,97,90,271,58.91
+Amendment 3,Yes,NON,009,0,145,331,171,647,65.16
+Amendment 3,Yes,NON,010,0,140,171,173,484,67.98
+Amendment 3,No,NON,001,0,160,412,87,659,30.75
+Amendment 3,No,NON,002,0,247,594,163,1004,40.32
+Amendment 3,No,NON,003,0,307,554,133,994,44.94
+Amendment 3,No,NON,004,-,-,-,-,36,25.90
+Amendment 3,No,NON,005,-,-,-,-,161,52.61
+Amendment 3,No,NON,006,0,88,241,77,406,37.15
+Amendment 3,No,NON,007,0,157,498,148,803,51.31
+Amendment 3,No,NON,008,0,42,63,84,189,41.09
+Amendment 3,No,NON,009,0,75,194,77,346,34.84
+Amendment 3,No,NON,010,0,67,103,58,228,32.02
+Amendment 4,Yes,NON,001,0,246,838,266,1350,64.04
+Amendment 4,Yes,NON,002,0,363,814,296,1473,59.93
+Amendment 4,Yes,NON,003,0,330,690,267,1287,59.09
+Amendment 4,Yes,NON,004,-,-,-,-,87,63.97
+Amendment 4,Yes,NON,005,-,-,-,-,187,62.96
+Amendment 4,Yes,NON,006,0,139,357,154,650,60.30
+Amendment 4,Yes,NON,007,0,163,557,203,923,60.09
+Amendment 4,Yes,NON,008,0,63,81,101,245,53.85
+Amendment 4,Yes,NON,009,0,116,317,165,598,61.02
+Amendment 4,Yes,NON,010,0,120,169,152,441,62.29
+Amendment 4,No,NON,001,0,198,458,102,758,35.96
+Amendment 4,No,NON,002,0,313,509,163,985,40.07
+Amendment 4,No,NON,003,0,353,423,115,891,40.91
+Amendment 4,No,NON,004,-,-,-,-,49,36.03
+Amendment 4,No,NON,005,-,-,-,-,110,37.04
+Amendment 4,No,NON,006,0,125,227,76,428,39.70
+Amendment 4,No,NON,007,0,173,339,101,613,39.91
+Amendment 4,No,NON,008,0,60,79,71,210,46.15
+Amendment 4,No,NON,009,0,102,199,81,382,38.98
+Amendment 4,No,NON,010,0,86,103,78,267,37.71
+Amendment 5,Yes,NON,001,0,299,900,270,1469,69.46
+Amendment 5,Yes,NON,002,0,515,1013,340,1868,76.40
+Amendment 5,Yes,NON,003,0,517,810,280,1607,73.95
+Amendment 5,Yes,NON,004,-,-,-,-,102,75.56
+Amendment 5,Yes,NON,005,0,36,68,120,224,74.17
+Amendment 5,Yes,NON,006,0,199,427,163,789,73.06
+Amendment 5,Yes,NON,007,0,238,656,219,1113,73.18
+Amendment 5,Yes,NON,008,0,94,113,124,331,73.23
+Amendment 5,Yes,NON,009,0,167,384,180,731,74.59
+Amendment 5,Yes,NON,010,0,151,209,172,532,74.72
+Amendment 5,No,NON,001,0,155,393,98,646,30.54
+Amendment 5,No,NON,002,0,149,310,118,577,23.60
+Amendment 5,No,NON,003,0,165,300,101,566,26.05
+Amendment 5,No,NON,004,-,-,-,-,33,24.44
+Amendment 5,No,NON,005,-,-,-,-,78,25.83
+Amendment 5,No,NON,006,0,68,158,65,291,26.94
+Amendment 5,No,NON,007,0,99,225,84,408,26.82
+Amendment 5,No,NON,008,0,31,44,46,121,26.77
+Amendment 5,No,NON,009,0,50,133,66,249,25.41
+Amendment 5,No,NON,010,0,58,65,57,180,25.28
+Amendment 6,Yes,NON,001,0,398,1123,318,1839,85.57
+Amendment 6,Yes,NON,002,0,624,1244,433,2301,91.89
+Amendment 6,Yes,NON,003,0,632,1021,361,2014,90.76
+Amendment 6,Yes,NON,004,0,30,55,46,131,94.93
+Amendment 6,Yes,NON,005,0,37,86,147,270,87.66
+Amendment 6,Yes,NON,006,0,262,546,212,1020,92.06
+Amendment 6,Yes,NON,007,0,308,823,282,1413,90.29
+Amendment 6,Yes,NON,008,0,121,155,158,434,93.74
+Amendment 6,Yes,NON,009,0,202,476,224,902,90.47
+Amendment 6,Yes,NON,010,0,200,263,210,673,93.34
+Amendment 6,No,NON,001,0,62,193,55,310,14.43
+Amendment 6,No,NON,002,0,58,112,33,203,8.11
+Amendment 6,No,NON,003,0,64,111,30,205,9.24
+Amendment 6,No,NON,004,-,-,-,-,7,5.07
+Amendment 6,No,NON,005,-,-,-,-,38,12.34
+Amendment 6,No,NON,006,-,-,-,-,88,7.94
+Amendment 6,No,NON,007,-,-,-,-,152,9.71
+Amendment 6,No,NON,008,-,-,-,-,29,6.26
+Amendment 6,No,NON,009,-,-,-,-,95,9.53
+Amendment 6,No,NON,010,-,-,-,-,48,6.66
